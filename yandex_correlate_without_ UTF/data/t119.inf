@@ -1,0 +1,13 @@
+[t119]
+FileName1=t119.htm
+URL1=https://yandex.ru/
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_119.xml
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+FileName2=t119_92550.html
+URL2=https://an.yandex.ru/meta/92550?grab=dDMgwrcg0JLRhdC-0LTRj9GJ0LjQtSDigJQg0K_QvdC00LXQutGBLtCf0L7Rh9GC0LAKMQo%3D&target-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23inbox&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&charset=utf-8&duid=MTU3NDYyMzIwOTk0MjIwMjMzMQ%3D%3D&imp-id=748&partner-stat-id=72&enable-flat-highlight=1&test-tag=336450558099458&ad-session-id=5369951574623267653&target-id=57177855&pcode-version=9828&flash-ver=0&available-width=1275&uid=586221334&disabled-ad-type=undefined&layout-config=%7B%22win_width%22%3A1680%2C%22win_height%22%3A939%2C%22width%22%3A1275%2C%22height%22%3A36%2C%22left%22%3A366%2C%22top%22%3A107%2C%22visible%22%3A1%2C%22ad_no%22%3A13%2C%22req_no%22%3A6%7D&callback=Ya%5B7767198509228%5D
+[ProtocolInfo]
+ProtocolId=QTWeb

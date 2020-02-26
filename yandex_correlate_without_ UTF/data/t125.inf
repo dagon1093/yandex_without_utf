@@ -1,0 +1,13 @@
+[t125]
+FileName1=t125.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Fwelcome%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_L_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%253Fuid%253D586221334%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_pass_form&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Ans%3A1574623345092%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1680x939%3Az%3A180%3Ai%3A20191124222226%3Aet%3A1574623346%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A494481107191%3Arqn%3A14%3Arn%3A552961582%3Ahid%3A190620280%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A3%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623346%3Au%3A1574623209942202331%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+Total=1
+RequestHeaderFile=t125_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t125_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_125.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

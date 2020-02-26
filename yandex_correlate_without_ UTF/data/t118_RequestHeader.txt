@@ -1,0 +1,15 @@
+POST /clck/click HTTP/1.1
+Host: yandex.ru
+Connection: keep-alive
+Content-Length: 2124
+Origin: https://mail.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0; _ym_isad=2; _ym_visorc_784657=b; L=Zg5cVmBzXQVzYV1+AWlfDHJPBwQPVUcGMBgfTHpjBBcLGER8c0I=.1574623258.14059.328349.85fad42d9c3ab8c47d0238feabd29eb1; i=idE/FkIl/edlCnXybL/w9FFpgvIZyn8Q7XvRK9Zf3OrMELVyrl9Gmb5ja+qAnk6U5wivJaJcjy2FjRjsUrDlKEzv5PU=; yabs-frequency=/4/0000000000000000/rbYmS7Wu8DLOi71uE240/; my=YwA=; cycada=N0pN7qq1IHRmH+38FOVWht7P2CFiWlMJR49AvxyFlcY=; yp=1889983208.yrtsi.1574623208#1606159275.zmblt.487#1889983341.multib.1; ys=
+

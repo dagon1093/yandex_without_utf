@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Security-Policy: connect-src 'self' mc.yandex.ru mc.yandex.ua mc.yandex.by mc.yandex.kz mc.yandex.com.tr mc.yandex.com mc.webvisor.com mc.webvisor.org yastatic.net; default-src 'none'; img-src 'self' data: avatars.mds.yandex.net avatars.yandex.net mc.yandex.ru mc.yandex.ua mc.yandex.by mc.yandex.kz mc.yandex.com.tr mc.yandex.com mc.webvisor.com mc.webvisor.org yastatic.net yandex.st; script-src 'nonce-RdirHTRHH4Z0W6k2BjG5oQ==' 'unsafe-eval' 'unsafe-inline' mail.yandex.ru mc.yandex.ru pass.yandex.ru social.yandex.ru 'self' *.s3.yandex.net yastatic.net; style-src 'unsafe-inline' 'self' *.s3.yandex.net yastatic.net; font-src data: yastatic.net; child-src mc.yandex.ru; frame-src mc.yandex.ru 'self' yastatic.net; frame-ancestors https://*.common.yandex.ru https://*.common-outsorce.yandex.ru https://*.yandex.ru http://*.yandex.ru webvisor.com http://webvisor.com 'self'; report-uri https://csp.yandex.net/csp?from=paranja&yandex_login=undefined&yandexuid=undefined;
+Vary: Origin
+Date: Sun, 24 Nov 2019 19:21:14 GMT
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://yastatic.net
+Set-Cookie: i=I8WC52MMqUd5ngMAPJTl7NC3Qs+xAvCOI9F4wBRUjJREpL78hLDaHryd3xnIOfzUvABVq0HIGO6OSkcGE8QYpU38+fI=; Expires=Wed, 21-Nov-2029 19:21:14 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+

@@ -1,0 +1,3 @@
+"site-info=%5B%7B%22Login%20header.Right%20part%22%3A%7B%22Menu%20behind%20login%22%3A%7B%22No%"
+"20new%20messages%22%3A%7B%22Sign%20out%20of%20Yandex%20services%22%3A%22Click%22%7D%7D%7D%7D%5"
+"D"

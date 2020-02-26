@@ -1,0 +1,13 @@
+[t37]
+FileName1=t37.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=message-body
+Total=2
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=t37_RequestBody.txt
+ResponseHeaderFile=t37_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_37.xml
+FileName2=t37_0.png
+URL2=https://mail.yandex.ru/u2709/favicon/png/main-favicon/32/0.png
+[ProtocolInfo]
+ProtocolId=QTWeb

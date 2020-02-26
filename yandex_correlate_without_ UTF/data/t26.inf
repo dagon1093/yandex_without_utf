@@ -1,0 +1,13 @@
+[t26]
+FileName1=t26.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=folders,labels,messages
+Total=2
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=t26_RequestBody.txt
+ResponseHeaderFile=t26_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_26.xml
+FileName2=t26_left-28283fc54b024598c93873edc8135264.css
+URL2=https://yastatic.net/s3/liza/_/left-28283fc54b024598c93873edc8135264.css
+[ProtocolInfo]
+ProtocolId=QTWeb

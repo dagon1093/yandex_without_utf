@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Ans%3A1574623222741%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Az%3A180%3Ai%3A20191124222023%3Aet%3A1574623224%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A494481107191%3Arqn%3A2%3Arn%3A575995947%3Ahid%3A685284627%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A1%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623224%3Au%3A1574623209942202331
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=t10_RequestBody.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

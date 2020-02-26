@@ -1,0 +1,15 @@
+[t73]
+FileName1=t73.html
+URL1=https://mail.yandex.ru/web-api/journal/liza1?_m=do-client-log
+Total=3
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=t73_RequestBody.txt
+ResponseHeaderFile=t73_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_73.xml
+FileName2=t73_bebea876c91d75ddac71-5.html
+URL2=https://yastatic.net/s3/liza/_/bebea876c91d75ddac71-5.js
+FileName3=t73_0.png
+URL3=https://mail.yandex.ru/u2709/favicon/png/main-favicon/32/0.png
+[ProtocolInfo]
+ProtocolId=QTWeb

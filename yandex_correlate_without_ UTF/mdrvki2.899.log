@@ -1,0 +1,153 @@
+Start auto log messages stack - Iteration 33.
+Action.c(38): Notify: Transaction "0_homepage" ended with a "Pass" status (Duration: 21,0954 Wasted Time: 0,0030).
+Action.c(45): Notify: Transaction "1_login" started.
+Action.c(54): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(54): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(69): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(69): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(84): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(84): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(93): web_url("auth") started  	[MsgId: MMSG-26355]
+Action.c(93): Error -27792: Failed to connect to server "passport.yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(93): Error -35061: No match found for the requested parameter "csrf_token". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(93): Error -35061: No match found for the requested parameter "process_uuid". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(93): Error -35061: No match found for the requested parameter "reqid_1". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 35.
+Action.c(237): Found resource "https://yastatic.net/jquery/1.12.4/jquery.min.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+Action.c(237): web_url("redirect") was successful, 247095 body bytes, 9919 header bytes, 148 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(247): web_convert_param started  	[MsgId: MMSG-26355]
+Action.c(247): web_convert_param was successful  	[MsgId: MMSG-26392]
+Action.c(258): web_websocket_connect started  	[MsgId: MMSG-26355]
+Action.c(258): web_websocket_connect was successful, 149 body bytes, 708 header bytes, 11 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(268): web_url("data") started  	[MsgId: MMSG-26355]
+Action.c(268): Error -27792: Failed to connect to server "yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 34.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Redirecting "http://mail.yandex.ru/" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(27): To location "https://mail.yandex.ru/"  	[MsgId: MMSG-26693]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 178 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 35.
+Starting action Action.
+Action.c(3): Notify: Transaction "0_homepage" started.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(27): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 36.
+Action.c(356): Warning -35046: The WebSocket whose ID is "0" is not connected  	[MsgId: MWAR-35046]
+Action.c(356): web_websocket_send highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(361): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(361): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(365): web_url("passport") started  	[MsgId: MMSG-26355]
+Action.c(365): Redirecting "https://passport.yandex.ru/passport?mode=embeddedauth&action=logout&uid=337788035&yu=2788520111579115117&retpath=https%3A%2F%2Fyandex.ru" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(365): To location "https://passport.yandex.ru/auth/finish/?track_id=51f52f8032acda5b1055903cbe0c3a7984"  	[MsgId: MMSG-26693]
+Action.c(365): Error -27792: Failed to connect to server "passport.yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 63.
+Action.c(356): Warning -35046: The WebSocket whose ID is "0" is not connected  	[MsgId: MWAR-35046]
+Action.c(356): web_websocket_send highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(361): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(361): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(365): web_url("passport") started  	[MsgId: MMSG-26355]
+Action.c(365): Redirecting "https://passport.yandex.ru/passport?mode=embeddedauth&action=logout&uid=337788035&yu=8420113131579115489&retpath=https%3A%2F%2Fyandex.ru" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(365): To location "https://passport.yandex.ru/auth/finish/?track_id=20103ca4b9be73ad43460fcb3ecbaad916"  	[MsgId: MMSG-26693]
+Action.c(365): Error -27792: Failed to connect to server "passport.yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 66.
+Starting action Action.
+Action.c(3): Notify: Transaction "0_homepage" started.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(27): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 90.
+Starting action Action.
+Action.c(3): Notify: Transaction "0_homepage" started.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(27): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 91.
+Starting action Action.
+Action.c(3): Notify: Transaction "0_homepage" started.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:80": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(27): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.
+
+
+Start auto log messages stack - Iteration 92.
+Action.c(5): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(5): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(13): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(23): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(27): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+Action.c(27): Redirecting "http://mail.yandex.ru/" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(27): To location "https://mail.yandex.ru/"  	[MsgId: MMSG-26693]
+Action.c(27): Error -27792: Failed to connect to server "mail.yandex.ru:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(27): Error -35061: No match found for the requested parameter "yu". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 178 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-35061]
+Action.c(27): Error -26366: "Text=Яндекс.Почта" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.
+
+

@@ -1,0 +1,15 @@
+[t51]
+FileName1=t51.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=do-settings,settings
+Total=3
+RequestHeaderFile=t51_RequestHeader.txt
+RequestBodyFile=t51_RequestBody.txt
+ResponseHeaderFile=t51_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_51.xml
+FileName2=t51_atom.html
+URL2=https://yastatic.net/daas/atom.js
+FileName3=t51_loader.html
+URL3=https://yastatic.net/pcode/adfox/loader.js
+[ProtocolInfo]
+ProtocolId=QTWeb

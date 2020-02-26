@@ -1,0 +1,16 @@
+POST /registration-validations/auth/additional_data/ask_v2 HTTP/1.1
+Host: passport.yandex.ru
+Connection: keep-alive
+Content-Length: 81
+Accept: application/json, text/javascript, */*; q=0.01
+Origin: https://passport.yandex.ru
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Referer: https://passport.yandex.ru/auth/welcome?from=mail&origin=hostroot_homer_auth_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F&backpath=https%3A%2F%2Fmail.yandex.ru%3Fnoretpath%3D1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0; i=xihJqdAbmoDKNRArwDldEienxADZsldOqbqAuTnduokDripB2OyxbZK19cmdkp5p8TYvB2r6e0EAw5wQiqwmcDZ0O3Y=; _ym_isad=2; uniqueuid=362151321574623222; _ym_visorc_784657=b; Session_id=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.328440.vlg5bVzvR9l-FoHd9x_k0A-QGhY; sessionid2=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.955985.lp_pe9LtBrPQ9NEqM24xFDlrDC0; yp=1889983208.yrtsi.1574623208#1889983258.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=Zg5cVmBzXQVzYV1+AWlfDHJPBwQPVUcGMBgfTHpjBBcLGER8c0I=.1574623258.14059.328349.85fad42d9c3ab8c47d0238feabd29eb1; yandex_login=Alex.Under1093; lah=XB1kZ0Xd5fPWUnbXhbqHMGp3Gi9ZChNLXwEUUDFEW0NXWTU1Kx81ME5MGkQ.1574623258.14059.1.de9636c55a01ea440678b2135c13cd48; mda2_beacon=1574623258668
+

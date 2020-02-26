@@ -1,0 +1,13 @@
+[t117]
+FileName1=t117.html
+URL1=https://mail.yandex.ru/web-api/journal/liza1?_m=do-journal-log
+Total=2
+RequestHeaderFile=t117_RequestHeader.txt
+RequestBodyFile=t117_RequestBody.txt
+ResponseHeaderFile=t117_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_117.xml
+FileName2=t117_92550.html
+URL2=https://an.yandex.ru/meta/92550?grab=dDMgwrcg0JLRhdC-0LTRj9GJ0LjQtSDigJQg0K_QvdC00LXQutGBLtCf0L7Rh9GC0LAKMQo%3D&target-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23inbox&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&charset=utf-8&duid=MTU3NDYyMzIwOTk0MjIwMjMzMQ%3D%3D&imp-id=750&partner-stat-id=65&enable-flat-highlight=1&test-tag=336450558099458&ad-session-id=5369951574623267653&target-id=69436086&pcode-version=9828&flash-ver=0&available-width=300&skip-token=yabs.NzMzNjg4NDM1Nwo3MjYwODQyNTQ4CjczMzc3MDkzOTQKNzEyMDg3MTM1MQo2NTk5MzkwMDcz&uid=586221334&disabled-ad-type=undefined&layout-config=%7B%22win_width%22%3A1680%2C%22win_height%22%3A939%2C%22width%22%3A300%2C%22height%22%3A870%2C%22left%22%3A8%2C%22top%22%3A381%2C%22visible%22%3A1%2C%22ad_no%22%3A13%2C%22req_no%22%3A5%7D&callback=Ya%5B4309153196131%5D
+[ProtocolInfo]
+ProtocolId=QTWeb

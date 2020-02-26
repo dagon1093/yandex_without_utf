@@ -1,0 +1,7 @@
+"site-info=%5B%7B%22Login%20header.Right%20part%22%3A%7B%22Menu%20behind%20login%22%3A%22Click%"
+"22%7D%7D%2C%7B%22Login%20header.Right%20part%22%3A%7B%22Menu%20behind%20login%22%3A%7B%22No%20"
+"new%20messages%22%3A%22Promo%20shows%22%7D%7D%7D%2C%7B%22Login%20header.Right%20part%22%3A%7B%"
+"22Menu%20behind%20login%22%3A%7B%22No%20new%20messages%22%3A%5B%7B%22Add%20user%22%3A%22Show%2"
+"2%7D%2C%7B%22Account%20settings%22%3A%22Show%22%7D%2C%7B%22Change%20password%22%3A%22Show%22%7"
+"D%2C%7B%22Help%20and%20feedback%22%3A%22Show%22%7D%2C%7B%22Sign%20out%20of%20Yandex%20services"
+"%22%3A%22Show%22%7D%2C%7B%22Yandex%20home%20page%22%3A%22Show%22%7D%5D%7D%7D%7D%5D"

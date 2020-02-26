@@ -1,0 +1,15 @@
+POST /watch/10102198/1?page-url=https%3A%2F%2Fmail.yandex.ru%2F&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Ans%3A1574623200784%3As%3A1680x1050x24%3Ask%3A1%3Afpr%3A67501995301%3Acn%3A1%3Az%3A180%3Ai%3A20191124222008%3Aet%3A1574623208%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A849336652624%3Arqn%3A1%3Arn%3A928398986%3Ahid%3A910733154%3Ads%3A0%2C1116%2C982%2C1%2C3755%2C0%2C0%2C1469%2C0%2C7674%2C7674%2C0%2C7353%3Afp%3A7522%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623209%3Au%3A1574623209942202331 HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+Content-Length: 245
+Origin: https://mail.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0
+

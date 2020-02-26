@@ -1,0 +1,15 @@
+POST /web-api/do-send/liza1?_send=true HTTP/1.1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: https://mail.yandex.ru/
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Origin: https://mail.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: mail.yandex.ru
+Cookie: yandexuid=2234480581582747498; Session_id=3:1582747500.5.0.1582747500977:VwryLg:1a.1|586221334.0.2|213141.126158.AjoWqLSQt0jLGdCmWHLdhZT6veg; sessionid2=3:1582747500.5.0.1582747500977:VwryLg:1a.1|586221334.0.2|213141.309551.xh-gmjZFFzlwcNm3izJ9j2GNdGE; yp=1898107501.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=A1MEd2BKUQRQXFtkRFkFDXdbemx2QWNPGRQKT10tOi1QOXBfcF4=.1582747501.14153.395934.f024a9f1d79e57c974037c188a90b4dc; yandex_login=Alex.Under1093; i=dvxomq1XDzUjsKDCVqvKFivzx2sWpYj7OuawmqUmeuib7ucsCiN9mnuQ8O87sAnwa9NdS2SV7yjRkFvi/BY5zTgVJGM=
+Content-Length: 2052
+

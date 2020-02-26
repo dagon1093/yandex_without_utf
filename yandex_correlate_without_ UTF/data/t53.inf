@@ -1,0 +1,15 @@
+[t53]
+FileName1=t53.gif
+URL1=https://yandex.ru/clck/click
+Total=2
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=t53_RequestBody.txt
+ResponseHeaderFile=t53_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_53.xml
+FileName2=t53_context_static.html
+URL2=https://an.yandex.ru/partner-code-bundles/9828/context_static.js
+[ProtocolInfo]
+ProtocolId=QTWeb

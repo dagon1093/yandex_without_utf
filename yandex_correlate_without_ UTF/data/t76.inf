@@ -1,0 +1,15 @@
+[t76]
+FileName1=t76.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?errorType=done_promo_manager.invalid_custom_config&eexp=189745%2C0%2C19%3B139071%2C0%2C85%3B142275%2C0%2C69%3B136883%2C0%2C38%3B135611%2C0%2C60%3B140619%2C0%2C14%3B160546%2C0%2C63%3B160678%2C0%2C44%3B185126%2C0%2C48%3B100970%2C0%2C14%3B158581%2C0%2C24%3B94810%2C0%2C40%3B189178%2C0%2C14%3B137858%2C0%2C95%3B165347%2C0%2C99%3B62697%2C0%2C78%3B189014%2C0%2C29%3B169671%2C0%2C45%3B182410%2C0%2C52%3B182406%2C0%2C54&uid=586221334&cid=LIZA-88874651-1574623259044&login=alex-under1093&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23compose&cv=jane-19.8.1&lcl=ru&cdn=mskm&exp=189745%2C0%2C19%3B139071%2C0%2C85%3B142275%2C0%2C69%3B136883%2C0%2C38%3B135611%2C0%2C60%3B140619%2C0%2C14%3B160546%2C0%2C63%3B160678%2C0%2C44%3B185126%2C0%2C48%3B100970%2C0%2C14%3B158581%2C0%2C24%3B94810%2C0%2C40%3B189178%2C0%2C14%3B137858%2C0%2C95%3B165347%2C0%2C99%3B62697%2C0%2C78%3B189014%2C0%2C29%3B169671%2C0%2C45%3B182410%2C0%2C52%3B182406%2C0%2C54&kclbd=n&csw=0&lifetime=34&afterload=true
+Total=3
+RequestHeaderFile=t76_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t76_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_76.xml
+FileName2=t76_92550.html
+URL2=https://an.yandex.ru/meta/92550?grab=dNCv0L3QtNC10LrRgS7Qn9C-0YfRgtCwCjEK&target-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23compose&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&charset=utf-8&duid=MTU3NDYyMzIwOTk0MjIwMjMzMQ%3D%3D&imp-id=754&partner-stat-id=195&enable-flat-highlight=1&test-tag=336450558099458&ad-session-id=5369951574623267653&target-id=91159217&pcode-version=9828&flash-ver=0&available-width=300&skip-token=yabs.NzIxNjUyMjY2OAo3MjEwMTA1MTgwCjcxMTIxNzc1OTE%3D&uid=586221334&disabled-ad-type=undefined&layout-config=%7B%22win_width%22%3A1680%2C%22win_height%22%3A939%2C%22width%22%3A300%2C%22height%22%3A880%2C%22left%22%3A8%2C%22top%22%3A381%2C%22visible%22%3A1%2C%22ad_no%22%3A4%2C%22req_no%22%3A2%7D&callback=Ya%5B1904096181728%5D
+FileName3=t76_71b6e065fe08a91db85d.html
+URL3=https://an.yandex.ru/partner-code-bundles/9828/71b6e065fe08a91db85d.js
+[ProtocolInfo]
+ProtocolId=QTWeb

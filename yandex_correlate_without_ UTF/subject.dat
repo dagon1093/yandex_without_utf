@@ -1,0 +1,9 @@
+subject,Message
+functional testing,Testing for compliance of the software product with the requirements of the system implementation structure
+system testing,High-level verification of the functionality of the entire program or system as a whole
+performance testing,Testing\, which is carried out in order to determine how quickly the system or part of it works under a certain load
+regression testing,Regression testing is carried out in order to check whether new functions\, improvements and fixed defects affect the existing functionality of the product and whether old defects occur
+unit testing,In order to verify the correct operation of the entire system\, you must first test each system module individually
+security testing,Security testing is a testing strategy used to verify the security of the system\, as well as to analyze the risks associated with providing a holistic approach to protecting the application\, hacker attacks\, viruses\, unauthorized access to sensitive data
+localization testing,localization testing is the process of testing a localized version of a software product
+usability testing,Usability testing is a testing method aimed at establishing the degree of usability\, learning ability\, comprehensibility and attractiveness for users of a developed product in the context of given conditions

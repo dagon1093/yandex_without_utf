@@ -1,0 +1,13 @@
+[t99]
+FileName1=t99.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=messages
+Total=2
+RequestHeaderFile=t99_RequestHeader.txt
+RequestBodyFile=t99_RequestBody.txt
+ResponseHeaderFile=t99_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_99.xml
+FileName2=t99_cfe9edc363b9c3bae5b459e8fc86d561-Devices3_ru.png
+URL2=https://yastatic.net/s3/liza/_/cfe9edc363b9c3bae5b459e8fc86d561-Devices3_ru.png
+[ProtocolInfo]
+ProtocolId=QTWeb

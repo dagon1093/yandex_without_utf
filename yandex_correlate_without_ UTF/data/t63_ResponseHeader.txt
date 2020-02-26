@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sun, 24 Nov 2019 19:21:14 GMT
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://yastatic.net
+Access-Control-Allow-Credentials: true
+X-qloud-router: vla1-1a9f70e3263a.qloud-c.yandex.net
+Content-Length: 397
+X-XSS-Protection: 1; mode=block
+Cache-Control: public,max-age=300
+Content-Type: application/json; charset=utf-8
+

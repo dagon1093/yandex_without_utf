@@ -1,0 +1,11 @@
+[t69]
+FileName1=t69.html
+URL1=https://mc.yandex.ru/watch/45507111?wmode=7&page-ref=https%3A%2F%2Fmail.yandex.ru%2F&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&charset=utf-8&site-info=%7B%22from%22%3A%22rsya%22%2C%22product%22%3A%22browser2%22%2C%22variation%22%3A1%7D&browser-info=ti%3A10%3Ans%3A1574623268401%3As%3A1680x1050x24%3Ask%3A1%3Aifr%3A1%3Asti%3A0%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A0x0%3Az%3A180%3Ai%3A20191124222116%3Aet%3A1574623277%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Acpf%3A1%3Apv%3A1%3Als%3A799699918425%3Arqn%3A1%3Arn%3A464813598%3Ahid%3A49528133%3Ads%3A0%2C0%2C47%2C34%2C5%2C0%2C0%2C5630%2C0%2C5791%2C5791%2C2%2C5791%3Agdpr%3A8%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623277%3Au%3A1574623277373563414
+Total=1
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_69.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

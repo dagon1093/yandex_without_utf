@@ -1,0 +1,15 @@
+[t11]
+FileName1=t11.gif
+URL1=https://mc.yandex.ru/watch/784657/1?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&page-url=goal%3A%2F%2Fpassport.yandex.ru%2F2step_domik_show_login_form&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Ans%3A1574623222741%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1680x939%3Az%3A180%3Ai%3A20191124222023%3Aet%3A1574623224%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A494481107191%3Arqn%3A4%3Arn%3A153808934%3Ahid%3A685284627%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A3%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623224%3Au%3A1574623209942202331%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+Total=2
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_monitoring.txt
+URL2=https://passport.yandex.ru/monitoring?app=passport&page=auth.v2&event=load&tm.navigationStart=1574623222741&tm.unloadEventStart=0&tm.unloadEventEnd=0&tm.redirectStart=0&tm.redirectEnd=0&tm.fetchStart=1574623222744&tm.domainLookupStart=1574623222759&tm.domainLookupEnd=1574623222770&tm.connectStart=1574623222770&tm.connectEnd=1574623222863&tm.secureConnectionStart=1574623222801&tm.requestStart=1574623222863&tm.responseStart=1574623222990&tm.responseEnd=1574623222992&tm.domLoading=1574623223002&tm.domInteractive=1574623223238&tm.domContentLoadedEventStart=1574623223427&tm.domContentLoadedEventEnd=1574623223605&tm.domComplete=1574623223845&tm.loadEventStart=1574623223845&tm.loadEventEnd=1574623223854&nav.type=0&nav.redirectCount=0
+[ProtocolInfo]
+ProtocolId=QTWeb

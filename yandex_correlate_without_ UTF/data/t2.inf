@@ -1,0 +1,15 @@
+[t2]
+FileName1=t2.html
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-ref=https%3A%2F%2Fmail.yandex.ru%2F&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Afu%3A2%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623208%3Au%3A
+Total=3
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_5ed8af7a873ff6e5509a.html
+URL2=https://yastatic.net/s3/mail/homer/_/5ed8af7a873ff6e5509a.js
+FileName3=t2_89e23678d4b247c28d13.ico
+URL3=https://yastatic.net/s3/mail/homer/_/89e23678d4b247c28d13.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

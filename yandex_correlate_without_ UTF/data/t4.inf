@@ -1,0 +1,15 @@
+[t4]
+FileName1=t4_1.html
+URL1=https://mc.yandex.ru/watch/10102198/1?wmode=7&page-url=https%3A%2F%2Fmail.yandex.ru%2F&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Adp%3A1%3Ans%3A1574623200784%3As%3A1680x1050x24%3Ask%3A1%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1663x939%3Az%3A180%3Ai%3A20191124222008%3Aet%3A1574623209%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Acpf%3A1%3Apv%3A1%3Als%3A849336652624%3Arqn%3A2%3Arn%3A256332337%3Ahid%3A910733154%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623209%3Au%3A1574623209942202331%3At%3A%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20%E2%80%94%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B8%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+FileName2=t4__Ocpq376VVJdR5aDIq4WkfWF6Gg.html
+URL2=https://yastatic.net/islands/_/_Ocpq376VVJdR5aDIq4WkfWF6Gg.woff2
+FileName3=t4_kxV2-EeUdyizF_lxQ-hrmltgp3c.html
+URL3=https://yastatic.net/islands/_/kxV2-EeUdyizF_lxQ-hrmltgp3c.woff2
+[ProtocolInfo]
+ProtocolId=QTWeb

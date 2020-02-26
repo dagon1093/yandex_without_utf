@@ -1,0 +1,19 @@
+HTTP/1.1 200 Ok
+Content-Security-Policy: report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.ru&showid=1574623344.66195.140408.4841&h=man2-5521-40b-man-portal-morda-29675&csp=new&date=20191124&yandexuid=1486360661574623206;child-src mc.yandex.ru yandex.ru yastatic.net music.yandex.ru zen.yandex.ru browser.yandex.ru yandexadexchange.net main.zdevx.yandex.ru yabs.yandex.ru blob: *.cdn.yandex.net downloader.yandex.net passport.yandex.ru ott-widget.yandex.ru awaps.yandex.net 'self' *.yandexadexchange.net;img-src mc.admetrica.ru tracking.ott.yandex.net mc.yandex.ru yastatic.net yandex.ru ads.adfox.ru wcm.solution.weborama.fr zen.s3.yandex.net zen.yandex.ru storage.mds.yandex.net main.zdevx.yandex.ru yabs.yandex.ru wcm-ru.frontend.weborama.fr auto.ru avatars.mds.yandex.net *.strm.yandex.net s3.mds.yandex.net sb.scorecardresearch.com strm.yandex.ru gdeby.hit.gemius.pl resize.yandex.net an.yandex.ru favicon.yandex.net 'self' data: ad.doubleclick.net awaps.yandex.net leonardo.edadeal.io;default-src yastatic.net yastat.net;connect-src wss://webasr.yandex.net 'self' an.yandex.ru wss://portal-xiva.yandex.net strm.yandex.ru jstracer.yandex.ru quasar.yandex.ru auto.ru api.market.yandex.ru yabs.yandex.ru main.zdevx.yandex.ru wss://yandex.ru portal-xiva.yandex.net games.yandex.ru zen.yandex.ru frontend.vh.yandex.ru yandex.ru yastatic.net yastat.net mc.yandex.ru cloud-api.yandex.ru mobile.yandex.net mc.admetrica.ru;media-src video-preview.s3.yandex.net;script-src yandex.ru yastatic.net mc.yandex.ru main.zdevx.yandex.ru 'self' an.yandex.ru 'nonce-tM9O2GmzpCBqOf7UdS/cjA==' zen.yandex.ru;object-src avatars.mds.yandex.net;style-src zen.yandex.ru yastatic.net main.zdevx.yandex.ru 'unsafe-inline';font-src zen.yandex.ru main.zdevx.yandex.ru yastatic.net
+Date: Sun, 24 Nov 2019 19:22:25 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: yp=1889983208.yrtsi.1574623208#1606159275.zmblt.487#1889983341.multib.1#1577215345.ygu.1; Expires=Wed, 21-Nov-2029 19:22:25 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: _ym_wasSynced=; Expires=Thu, 26-Nov-2009 19:22:25 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: _ym_d=; Expires=Thu, 26-Nov-2009 19:22:25 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: _ym_visorc_784657=; Expires=Thu, 26-Nov-2009 19:22:25 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandex_gid=213; Expires=Tue, 24-Dec-2019 19:22:25 GMT; Domain=.yandex.ru; Path=/
+X-Frame-Options: DENY
+Expires: Sun, 24 Nov 2019 19:22:25 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Last-Modified: Sun, 24 Nov 2019 19:22:25 GMT
+Transfer-Encoding: chunked
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

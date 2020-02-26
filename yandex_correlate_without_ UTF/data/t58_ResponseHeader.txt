@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx/1.17.6
+Date: Sun, 24 Nov 2019 19:21:08 GMT
+Content-Type: text/html
+Content-Length: 6026
+Connection: keep-alive
+Keep-Alive: timeout=5
+Etag: "f883bd7781c332870c9968db60e89349"
+Last-Modified: Tue, 20 Aug 2019 11:55:41 GMT
+X-Robots-Tag: noindex, noarchive, nofollow
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Cache-Control: public
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=43200000; includeSubDomains;
+Timing-Allow-Origin: *
+Vary: Accept-Encoding
+Content-Encoding: br
+Accept-Ranges: bytes
+

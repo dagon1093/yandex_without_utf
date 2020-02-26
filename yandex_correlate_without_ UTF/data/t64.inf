@@ -1,0 +1,17 @@
+[t64]
+FileName1=t64_browser2.html
+URL1=https://yandex.ru/paranja/browser2?from=rsya&format=json
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_64.xml
+RequestHeaderFile=t64_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t64_ResponseHeader.txt
+FileName2=t64.gif
+URL2=https://yandex.ru/portal/set/any/?sk=y625a3488a6a6e91ec798154e5ed60074&gif=1&zmblt=487
+FileName3=t64_d.png
+URL3=https://ysa-static.passport.yandex.ru/static/1/d959d7e39d5067fad30d9c06204866e9/d.png?ex=yes
+FileName4=t64_MeBxj0dANdk3efWVokm%2FAA.gif
+URL4=https://an.yandex.ru/mapuid/dmpaidatame/MeBxj0dANdk3efWVokm%2FAA?sign=1481811362
+[ProtocolInfo]
+ProtocolId=QTWeb

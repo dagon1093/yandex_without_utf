@@ -1,0 +1,11 @@
+[t33]
+FileName1=t33.html
+URL1=https://mc.yandex.ru/watch/40081755?wmode=7&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&page-url=https%3A%2F%2Fmail.yandex.ru%2F%23inbox&charset=utf-8&ut=noindex&exp=IAlSIbhiMgNnm91eHWk6kWat_QhikmqjCiHBgX7zniHTFp2ASBYVEG5JriMNuwTyLUOvyATeJrjrHwSTxUJsuSX0kwJZWU6RRL8dqWmOJi3VXV2dc2l0Yz_Wd676sa9tpfAJZl8SR9Lubx38rhx1EpusopEFY-uzj_V3gWEKewmDAmjHO29PhgEk0rYlMP-NbtekXaWppNCnqagGCo2M3RNBNIJqarJYX8M5zxYlEywAF1LDK7UnWoYO2cpP5bPkH_wwioCGuUudF8sAd1SkB5cIh88JWkwC1XjoNWsrRA2DAtO0aK_RmfYEKZSjPU6j&browser-info=ti%3A10%3Ans%3A1574623259305%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1667x939%3Az%3A180%3Ai%3A20191124222102%3Aet%3A1574623263%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Acpf%3A1%3Apv%3A1%3Als%3A650157472659%3Arqn%3A1%3Arn%3A69879206%3Ahid%3A1010272455%3Ads%3A0%2C0%2C295%2C51%2C41%2C0%2C0%2C675%2C11%2C%2C%2C%2C1037%3Afp%3A2293%3Agdpr%3A13%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623263%3Au%3A1574623209942202331
+Total=1
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_33.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

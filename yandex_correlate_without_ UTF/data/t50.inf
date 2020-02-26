@@ -1,0 +1,13 @@
+[t50]
+FileName1=t50.gif
+URL1=https://mc.yandex.ru/watch/40081755/1?page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23inbox&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A1%3Ans%3A1574623259305%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Az%3A180%3Ai%3A20191124222103%3Aet%3A1574623264%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A650157472659%3Arqn%3A2%3Arn%3A603491519%3Ahid%3A1010272455%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C3751%2C3751%2C2%2C%3Agdpr%3A13%3Afu%3A1%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623264%3Au%3A1574623209942202331%3App%3A3629563401
+Total=1
+RequestHeaderFile=t50_RequestHeader.txt
+RequestBodyFile=t50_RequestBody.txt
+ResponseHeaderFile=t50_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_50.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

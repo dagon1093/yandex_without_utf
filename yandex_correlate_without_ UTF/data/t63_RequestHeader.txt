@@ -1,0 +1,13 @@
+GET /set/s/rsya-tag-users/data?referrer=https%3A%2F%2Fmail.yandex.ru%2F HTTP/1.1
+Host: yandex.ru
+Connection: keep-alive
+Origin: https://yastatic.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Referer: https://yastatic.net/safeframe-bundles/0.69/1-1-0/render.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0; _ym_isad=2; _ym_visorc_784657=b; Session_id=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.328440.vlg5bVzvR9l-FoHd9x_k0A-QGhY; sessionid2=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.955985.lp_pe9LtBrPQ9NEqM24xFDlrDC0; yp=1889983208.yrtsi.1574623208#1889983258.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=Zg5cVmBzXQVzYV1+AWlfDHJPBwQPVUcGMBgfTHpjBBcLGER8c0I=.1574623258.14059.328349.85fad42d9c3ab8c47d0238feabd29eb1; yandex_login=Alex.Under1093; i=idE/FkIl/edlCnXybL/w9FFpgvIZyn8Q7XvRK9Zf3OrMELVyrl9Gmb5ja+qAnk6U5wivJaJcjy2FjRjsUrDlKEzv5PU=; yabs-frequency=/4/0000000000000000/rbYmS7Wu8DLOi71uE240/
+

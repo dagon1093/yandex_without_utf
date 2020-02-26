@@ -1,0 +1,13 @@
+GET /auth?from=mail&origin=hostroot_homer_auth_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F&backpath=https%3A%2F%2Fmail.yandex.ru%3Fnoretpath%3D1 HTTP/1.1
+Referer: https://mail.yandex.ru/
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Mode: navigate
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: yandexuid=2234480581582747498
+

@@ -1,0 +1,17 @@
+[t87]
+FileName1=t87.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=messages
+Total=4
+RequestHeaderFile=t87_RequestHeader.txt
+RequestBodyFile=t87_RequestBody.txt
+ResponseHeaderFile=t87_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_87.xml
+FileName2=t87_0.png
+URL2=https://mail.yandex.ru/u2709/favicon/png/main-favicon/32/0.png
+FileName3=t87_0.png
+URL3=https://mail.yandex.ru/u2709/favicon/png/main-favicon/32/0.png
+FileName4=t87_monitoring_liza.txt
+URL4=https://mail.yandex.ru/monitoring_liza.txt?subj-1cc80a373f37344b43278ca1e41ec71ac6b6e04d=teeeeeeeeeeeeeeest
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+POST /watch/3/1?wmode=7&page-ref=https%3A%2F%2Fmail.yandex.ru%2F&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Afu%3A2%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623208%3Au%3A HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+Content-Length: 0
+Origin: https://mail.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206
+

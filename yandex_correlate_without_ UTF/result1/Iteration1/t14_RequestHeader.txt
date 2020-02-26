@@ -1,0 +1,16 @@
+POST /registration-validations/auth/accounts HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/auth/welcome?from=mail&origin=hostroot_homer_auth_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F&backpath=https%3A%2F%2Fmail.yandex.ru%3Fnoretpath%3D1
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Origin: https://passport.yandex.ru
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: yandexuid=2234480581582747498; uniqueuid=421513981582747499; Session_id=3:1582747500.5.0.1582747500977:VwryLg:1a.1|586221334.0.2|213141.126158.AjoWqLSQt0jLGdCmWHLdhZT6veg; sessionid2=3:1582747500.5.0.1582747500977:VwryLg:1a.1|586221334.0.2|213141.309551.xh-gmjZFFzlwcNm3izJ9j2GNdGE; sessguard=1.1582747500.1582747500977:VwryLg:1a..3:213141.500:6277.5dClKGvp.XXHlg0aOGJ9TGVcWrbxbaBUb7sQ; yp=1898107501.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=A1MEd2BKUQRQXFtkRFkFDXdbemx2QWNPGRQKT10tOi1QOXBfcF4=.1582747501.14153.395934.f024a9f1d79e57c974037c188a90b4dc; yandex_login=Alex.Under1093; lah=OUA8RkXk6fL1b3C67rrEMWVvYkEjGTYPdg0BUxYKZXkMeAEWKAMiNUp0Gzc.1582747501.14153.1.6ee69dec05892a3640becb7618166ac9; mda2_beacon=1582747501004
+Content-Length: 67
+

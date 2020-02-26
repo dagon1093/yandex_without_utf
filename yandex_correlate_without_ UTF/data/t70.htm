@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body topmargin="0" leftmargin="0">
+<script>
+function crc32 (str) {
+	var  crc = 0;
+	var iTop = str.length;
+	for( var i = 0; i < iTop; i++ ) {
+		var byte1 = str.charCodeAt( i ) ;
+                var byte2 = 0;
+		if ( i < iTop ){
+			i++;
+			byte2 = str.charCodeAt( i ) ;			
+		}
+		var word = byte1 * 0x100 + byte2;	
+        	crc = ( crc ^ word);
+	    }
+	return crc;
+}
+
+function getHost(url){
+	var parser = document.createElement('a');
+        var host;
+	// https://gist.github.com/jlong/2428561
+	if (parser){
+		parser.href = url;
+		host = parser.hostname;
+	}
+return host;
+}
+
+function callPixel(url) {
+	(new Image()).src = url;
+}
+
+var window_domain = document.referrer;
+var protocol
+var awaps_host = "https://awaps.yandex.ru"; //default
+var flashvarstag;
+var swfmovie;
+var host = getHost(window_domain);
+var subsection = crc32(host);
+var use_image_zamer = false;
+var bw50 = "";
+
+ 
+
+function beginMeasureExperimnet(size) {
+		var awaps_host = "//awaps.yandex.com.tr"; 
+		var limg = new Image();
+		var ad_heavy_id ; 
+		var double_section_info = 15897;
+
+		if ( size == 50 ) {
+			ad_heavy_id = 442116;
+			section = 15669;
+
+		}else if ( size == 200 ){
+			 ad_heavy_id = 194843;
+			 section = 15670;
+		}else{
+			return;
+		}
+
+		
+	
+		var start = new Date();
+		limg.src = awaps_host + "/0/" + section + "/0.gif?ad=" + ad_heavy_id + "&pl=0&rnd=" + Math.round(Math.random() * 100000000);
+
+		limg.onload = function(evt) {
+			var finish = new Date(),
+			elapsed = (finish.valueOf() - start.valueOf()),
+			bw = size / elapsed * 1000;
+			bw = Math.round(bw);
+			if (bw > 10 * 100000 || bw <=0 ) return;
+
+	
+			if (size == 50){
+				bw50 = bw;
+				setTimeout("beginMeasureExperimnet(200);", 1000);
+			}else if (size == 200){
+					var msg = bw50 + "-" + bw;
+		         		callPixel(awaps_host + "/5/" + double_section_info + "/0?&evt=stop&time=" + elapsed + "&size=" + size + "&er=" + msg);
+			}
+
+		}
+		limg.onabort = function(evt) {
+			callPixel(awaps_host + "/59/" + section + "/0.gif?ad="+ad_heavy_id+"&pl=0&evt=interrupt");
+		}
+		limg.onerror = function(evt) {
+			callPixel(awaps_host + "/60/" + section + "/0.gif?ad="+ad_heavy_id+"&pl=0&evt=error");
+		}
+}
+
+
+
+
+function beginMeasurenByImage() {
+		var start;
+		start = new Date();
+
+		var limg = new Image();
+		var ad_heavy_id = 0;
+
+		var size = 200; //100, 200, 400
+
+		if ( size == 100 ) ad_heavy_id = 195708;
+		if ( size == 200 ) ad_heavy_id = 194843;
+		if ( size == 400 ) ad_heavy_id = 195835;
+
+		if (ad_heavy_id) limg.src = awaps_host + "/0/15222/0.gif?ad=" + ad_heavy_id + "&pl=0&rnd=" + Math.round(Math.random() * 100000000);
+
+		limg.onload = function(evt) {
+			var finish = new Date(),
+			elapsed = (finish.valueOf() - start.valueOf()),
+			bw = size / elapsed * 1000;
+			bw = Math.round(bw);
+			if (bw > 10 * 100000 || bw <=0 ) return;
+			callPixel(awaps_host + "/0/15222/0?&evt=stop&time=" + elapsed + "&bytes=102400&setbw=" + bw);
+			callPixel(awaps_host + "/5/15521/0?er=" + bw);	//15521 save BW
+
+			
+			// disable experemrnt terkey
+			//setTimeout("beginMeasureExperimnet(50);", 1000);
+		}
+		limg.onabort = function(evt) {
+			callPixel(awaps_host + "/59/15222/0.gif?ad=195708&pl=0&evt=interrupt");
+		}
+		limg.onerror = function(evt) {
+			callPixel(awaps_host + "/60/15222/0.gif?ad=195708&pl=0&evt=error");
+		}
+}
+
+	
+
+
+function AwapsEventHandler(url)
+{
+    var awaps_im = new Image();
+    
+    if (url.length > 4) {
+        awaps_im.src = url;
+    }
+}
+
+
+
+// TR always image
+if ( window_domain && window_domain.indexOf("com.tr") >0 ){ 
+	setTimeout(beginMeasurenByImage, 2000);
+	awaps_host = "//awaps.yandex.com.tr"
+	var refurl = awaps_host + '/5/15222/0?subsection=' +  subsection + '&er=' + host;
+
+}else{ 
+	awaps_host = "https://awaps.yandex.ru";
+
+	// now need only audit
+	var refurl = awaps_host + '/2/32245/0?subsection=' +  subsection + '&er=' + host;
+
+	setTimeout(beginMeasurenByImage, 300);
+
+	
+}
+
+
+callPixel(refurl);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+[t90]
+FileName1=t90.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=folders,labels
+Total=3
+RequestHeaderFile=t90_RequestHeader.txt
+RequestBodyFile=t90_RequestBody.txt
+ResponseHeaderFile=t90_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_90.xml
+FileName2=t90_done-e6bdd95c456a2c77432368dfd7386119.css
+URL2=https://yastatic.net/s3/liza/_/done-e6bdd95c456a2c77432368dfd7386119.css
+FileName3=t90_df2dafaf4f6839224427-38.html
+URL3=https://yastatic.net/s3/liza/_/df2dafaf4f6839224427-38.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+HTTP/1.0 200 Ok
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Set-Cookie: i=idE/FkIl/edlCnXybL/w9FFpgvIZyn8Q7XvRK9Zf3OrMELVyrl9Gmb5ja+qAnk6U5wivJaJcjy2FjRjsUrDlKEzv5PU=; Expires=Wed, 21-Nov-2029 19:21:00 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+Access-Control-Allow-Credentials: true
+Connection: Keep-Alive
+Content-Length: 43
+Cache-Control: no-cache
+Content-Type: image/gif
+

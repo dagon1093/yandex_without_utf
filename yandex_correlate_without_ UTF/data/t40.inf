@@ -1,0 +1,13 @@
+[t40]
+FileName1=t40.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=userphones
+Total=2
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=t40_RequestBody.txt
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t40_message-f12fc8e2d36d6592f2c1c2b6c8560f5f.css
+URL2=https://yastatic.net/s3/liza/_/message-f12fc8e2d36d6592f2c1c2b6c8560f5f.css
+[ProtocolInfo]
+ProtocolId=QTWeb

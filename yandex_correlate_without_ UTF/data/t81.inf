@@ -1,0 +1,13 @@
+[t81]
+FileName1=t81.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=abook-suggest-report
+Total=2
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=t81_RequestBody.txt
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_81.xml
+FileName2=t81.gif
+URL2=https://clck.yandex.ru/click/dtype=PS/project=search_mail/action=suggest-compose/product=web/uid=586221334/filed=to/suggest_used=yes/suggest_show=yes/pos=1/count=6/user_text=/search_text=alex.under1093%40yandex.ru/*https://mail.yandex.ru/?uid=586221334
+[ProtocolInfo]
+ProtocolId=QTWeb

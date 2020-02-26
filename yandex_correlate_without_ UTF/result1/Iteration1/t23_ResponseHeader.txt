@@ -1,0 +1,17 @@
+HTTP/1.1 200 Ok
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy: img-src amc.yandex.ru resize.yandex.net ads6.adfox.ru wcm.solution.weborama.fr gdeby.hit.gemius.pl ads.adfox.ru www.tns-counter.ru verify.yandex.ru avatars.mds.yandex.net mc.admetrica.ru mc.yandex.ru banners.adfox.ru leonardo.edadeal.io yastatic.net ad.doubleclick.net *.strm.yandex.net www.kinopoisk.ru auto.ru content.adfox.ru data: maximonline.ru px.moatads.com yastat.net zen.s3.yandex.net storage.mds.yandex.net bs.serving-sys.com *.verify.yandex.ru yandex.ru favicon.yandex.net avatars-fast.yandex.net awaps.yandex.net s3.mds.yandex.net an.yandex.ru thequestion.ru 'self' zen.yandex.ru ad.adriver.ru strm.yandex.ru *.tns-counter.ru yabs.yandex.ru wcm-ru.frontend.weborama.fr;font-src 'self' an.yandex.ru data: yastatic.net yastat.net zen.yandex.ru;script-src ads6.adfox.ru banners.adfox.ru 'self' 'nonce-qqVz13XQyiFpf7NrMJdApw==' mc.yandex.ru an.yandex.ru yastatic.net ads.adfox.ru zen.yandex.ru yastat.net yandex.ru;report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.ru&showid=1582747503.85357.122094.2690&h=sas1-0856-sas-portal-morda-17154&csp=new&date=20200226&yandexuid=2234480581582747498;media-src video-preview.s3.yandex.net yastat.net *.yandex.net yastatic.net content.adfox.ru data: banners.adfox.ru *.strm.yandex.ru strm.yandex.ru yandex.ru;child-src zen.yandex.ru yastatic.net yandexadexchange.net mc.yandex.ru banners.adfox.ru downloader.yandex.net 'self' *.yandexadexchange.net yabs.yandex.ru blob: yastat.net ott-widget.yandex.ru *.yandex.ru avatars.mds.yandex.net awaps.yandex.net browser.yandex.ru yandex.ru *.cdn.yandex.net;object-src avatars.mds.yandex.net;style-src zen.yandex.ru yastat.net yastatic.net 'unsafe-inline' content.adfox.ru banners.adfox.ru;connect-src strm.yandex.ru www.kinopoisk.ru yabs.yandex.ru thequestion.ru mc.yandex.ru an.yandex.ru mc.admetrica.ru api.market.yandex.ru adfox.yandex.ru 'self' zen.yandex.ru portal-xiva.yandex.net yastatic.net frontend.vh.yandex.ru wss://webasr.yandex.net wss://portal-xiva.yandex.net yandex.ru games.yandex.ru matchid.adfox.yandex.ru auto.ru ads6.adfox.ru yastat.net maximonline.ru mobile.yandex.net jstracer.yandex.ru cloud-api.yandex.ru ads.adfox.ru;default-src yastatic.net yastat.net zen.yandex.ru
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 26 Feb 2020 20:05:04 GMT
+Expires: Wed, 26 Feb 2020 20:05:04 GMT
+Last-Modified: Wed, 26 Feb 2020 20:05:04 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Set-Cookie: yp=1898107503.multib.1#1585339504.ygu.1; Expires=Sat, 23-Feb-2030 20:05:04 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None
+Set-Cookie: mda=0; Expires=Thu, 25-Jun-2020 20:05:03 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: yandex_gid=213; Expires=Fri, 27-Mar-2020 20:05:04 GMT; Domain=.yandex.ru; Path=/; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+

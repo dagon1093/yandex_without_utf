@@ -1,0 +1,11 @@
+[t97]
+FileName1=t97.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?ts=1574623326174&msg=%7B%22version%22%3A%221%22%2C%22uid%22%3A%22586221334%22%2C%22service%22%3A%22mail%22%2C%22operation%22%3A%22insert%22%2C%22lcn%22%3A%22807%22%2C%22session_key%22%3A%22%22%2C%22server_notify_id%22%3A%22vLeGVRefJeA1%3A5MeKbI0fNa61.5Meblv8wsuQ1%3Au2709%3Amail%22%2C%22bright%22%3Atrue%2C%22tags%22%3A%5B%5D%2C%22position%22%3A426%7D&type=xivaMsg&uid=586221334&cid=LIZA-88874651-1574623259044&login=alex-under1093&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23done&cv=jane-19.8.1&lcl=ru&cdn=mskm&exp=189745%2C0%2C19%3B139071%2C0%2C85%3B142275%2C0%2C69%3B136883%2C0%2C38%3B135611%2C0%2C60%3B140619%2C0%2C14%3B160546%2C0%2C63%3B160678%2C0%2C44%3B185126%2C0%2C48%3B100970%2C0%2C14%3B158581%2C0%2C24%3B94810%2C0%2C40%3B189178%2C0%2C14%3B137858%2C0%2C95%3B165347%2C0%2C99%3B62697%2C0%2C78%3B189014%2C0%2C29%3B169671%2C0%2C45%3B182410%2C0%2C52%3B182406%2C0%2C54&kclbd=n&csw=0&lifetime=65&afterload=true
+Total=1
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_97.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 24 Nov 2019 19:21:03 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+X-Response-With: YMail
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0
+X-Request-Id: 53db9d26aff4c502518c9be29538de74
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+

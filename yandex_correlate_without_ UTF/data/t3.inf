@@ -1,0 +1,15 @@
+[t3]
+FileName1=t3.gif
+URL1=https://mc.yandex.ru/watch/10102198/1?page-url=https%3A%2F%2Fmail.yandex.ru%2F&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Ans%3A1574623200784%3As%3A1680x1050x24%3Ask%3A1%3Afpr%3A67501995301%3Acn%3A1%3Az%3A180%3Ai%3A20191124222008%3Aet%3A1574623208%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A849336652624%3Arqn%3A1%3Arn%3A928398986%3Ahid%3A910733154%3Ads%3A0%2C1116%2C982%2C1%2C3755%2C0%2C0%2C1469%2C0%2C7674%2C7674%2C0%2C7353%3Afp%3A7522%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623209%3Au%3A1574623209942202331
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=t3_RequestBody.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_advert.gif
+URL2=https://mc.yandex.ru/metrika/advert.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 24 Nov 2019 19:20:59 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+X-Response-With: YMail
+X-Content-Type-Options: nosniff
+Content-Security-Policy: img-src data: *.gemius.pl *.tns-counter.ru *.adfox.ru view.atdmt.com  ad.adriver.ru  comscore.com  s1.countby.com  bl1.datamind.ru  *.doubleclick.net  secure-it.imrworldwide.com  lamoda25.ru  omirussia.ru  amch.questionmarket.com  jsre.r24-tech.com  yandex.dsp.redfog.ru  yandex-bidder.rutarget.ru  bs.serving-sys.com  eu-propulsor.sociomantic.com  tns.ru *.yandex.ru yandex.ru yadi.sk resize.yandex.net resize.rs.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net http://avatars.mds.yandex.net http://avatars.mdst.yandex.net *.yandex.net *.yastatic.net mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org yastatic.net 'self' mc.admetrica.ru yandex.st maps.googleapis.com webattach.mail.yandex.net *.yandex.com; script-src 'unsafe-inline' 'nonce-ORf09fDtxpEp3PsvatnG3A==' 'unsafe-eval' blob: ads.adfox.ru *.yandex.ru yandex.ru *.disk.yandex.net disk.yandex.ru api-maps.yandex.ru mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org yastatic.net 'self' yandex.st *.yandex.net; style-src 'unsafe-inline' 'unsafe-eval' 'self' yandex.st yastatic.net; frame-src blob: awaps.yandex.ru awaps.yandex.net yandexadexchange.net *.yandexadexchange.net banners.adfox.ru *.yandex.ru yandex.ru *.disk.yandex.net forms.yandex.ru mc.yandex.ru https://pay.yandex.ru https://trust.yandex.ru 'self' yastatic.net player.vimeo.com www.facebook.com webattach.mail.yandex.net frontend.vh.yandex.ru; child-src blob: *.disk.yandex.net forms.yandex.ru mc.yandex.ru https://pay.yandex.ru https://trust.yandex.ru 'self' yastatic.net frontend.vh.yandex.ru; default-src https://an.yandex.ru/system/context.js https://yastatic.net/jquery/1.12.4/jquery.min.js https://yastatic.net/nearest.js https://yastatic.net/s3/liza/_/; connect-src an.yandex.ru *.adfox.ru https://an.yandex.ru *.disk.yandex.net disk.yandex.ru suggest-maps.yandex.ru mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru https://pay.yandex.ru https://trust.yandex.ru yandex.ru 'self' yandex.st yastatic.net *.mail.yandex.net disk.yandex.com disk.yandex.kz disk.yandex.by disk.yandex.ua disk.yandex.com.tr *.video.yandex.net streaming.video.yandex.net csp.yandex.net static-mon.yandex.net wss://push.yandex.ru:* mobile.yandex.net; object-src *.tns-counter.ru 'self' yandex.st yastatic.net *.youtube.com *.yandex.ru static.video.yandex.net; media-src *.yandex.net 'self' yandex.st yastatic.net; manifest-src 'self'; font-src yastatic.net; report-uri https://csp.yandex.net/csp?from=LIZA&version=19.8.1&yandexuid=1486360661574623206&yandex_login=Alex.Under1093&puid=586221334&reqid=LIZA-88874651-1574623259044;
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0
+X-Request-Id: 6ee63a1e9f4a8e708989ea2a11bdb66c
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+

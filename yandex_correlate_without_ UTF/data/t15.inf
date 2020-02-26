@@ -1,0 +1,17 @@
+[t15]
+FileName1=t15.gif
+URL1=https://mc.yandex.ru/watch/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&charset=utf-8&ut=noindex&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A1%3Ans%3A1574623222741%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1680x939%3Az%3A180%3Ai%3A20191124222038%3Aet%3A1574623239%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Anb%3A1%3Acl%3A93%3Als%3A494481107191%3Arqn%3A5%3Arn%3A565930318%3Ahid%3A685284627%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C1104%2C1104%2C9%2C%3Agdpr%3A8%3Afu%3A1%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623239%3Au%3A1574623209942202331%3App%3A3629563401
+Total=3
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&pointer-click=rn%3A487782630%3Ax%3A36699%3Ay%3A43690%3At%3A193%3Ap%3AsAAFAAAA1A2AAA1AAA%3AX%3A858%3AY%3A447&browser-info=ti%3A4%3Arqnl%3A1%3Ast%3A1574623243%3Au%3A1574623209942202331%3App%3A3629563401
+FileName3=t15_784657.gif
+URL3=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fauth%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1&pointer-click=rn%3A820798104%3Ax%3A31675%3Ay%3A42324%3At%3A297%3Ap%3A%3FA2FAAAA1A2AAA1AAA%3AX%3A835%3AY%3A537&browser-info=ti%3A4%3Arqnl%3A1%3Ast%3A1574623253%3Au%3A1574623209942202331%3App%3A3629563401
+[ProtocolInfo]
+ProtocolId=QTWeb

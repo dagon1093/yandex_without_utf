@@ -1,0 +1,13 @@
+[t120]
+FileName1=t120.htm
+URL1=https://passport.yandex.ru/auth?from=mail&origin=hostroot_homer_auth_L_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334&backpath=https%3A%2F%2Fmail.yandex.ru%3Fnoretpath%3D1
+Total=2
+RequestHeaderFile=t120_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t120_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_120.xml
+FileName2=t120_watch.html
+URL2=https://mc.yandex.ru/metrika/watch.js?_=1574623345671
+[ProtocolInfo]
+ProtocolId=QTWeb

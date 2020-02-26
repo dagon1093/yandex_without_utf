@@ -1,0 +1,13 @@
+[t101]
+FileName1=t101.html
+URL1=https://mc.yandex.ru/watch/257968?wmode=7&cnt-class=1&nohit=1&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23done&charset=utf-8&ut=noindex&browser-info=ti%3A10%3Adp%3A1%3Ans%3A1574623259305%3As%3A1680x1050x24%3Ask%3A1%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A3%3Aw%3A1667x939%3Az%3A180%3Ai%3A20191124222102%3Aet%3A1574623327%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Acpf%3A1%3Aad%3A1%3Apv%3A1%3Als%3A1079939657892%3Arn%3A337429904%3Ahid%3A1010272455%3Agdpr%3A13%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623327%3Au%3A1574623209942202331%3App%3A3629563401%3At%3A%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0
+Total=2
+RequestHeaderFile=t101_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t101_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_101.xml
+FileName2=t101_257968.html
+URL2=https://an.yandex.ru/meta/257968?grab=dNCv0L3QtNC10LrRgS7Qn9C-0YfRgtCwCjEK&target-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23done&page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fauth%2Flist%3Ffrom%3Dmail%26origin%3Dhostroot_homer_auth_ru%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252F%26backpath%3Dhttps%253A%252F%252Fmail.yandex.ru%253Fnoretpath%253D1%26mode%3Dedit&charset=utf-8&duid=MTU3NDYyMzIwOTk0MjIwMjMzMQ%3D%3D&imp-id=4&partner-stat-id=268&enable-flat-highlight=1&test-tag=336450558099458&ad-session-id=5369951574623267653&target-id=47718038&pcode-version=9828&flash-ver=0&available-width=1269&skip-token=yabs.NzIxNjUyMjY2OAo3MjEwMTA1MTgwCjcxMTIxNzc1OTEKNzMzNjg4NDM1Nwo3MjYwODQyNTQ4CjczMzc3MDkzOTQ%3D&uid=586221334&disabled-ad-type=undefined&page=done&awaps_section=9010&layout-config=%7B%22win_width%22%3A1680%2C%22win_height%22%3A939%2C%22width%22%3A1269%2C%22height%22%3A0%2C%22left%22%3A352%2C%22top%22%3A485%2C%22visible%22%3A1%2C%22ad_no%22%3A7%2C%22req_no%22%3A3%7D&callback=Ya%5B4012390217363%5D
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t60]
+FileName1=t60.gif
+URL1=https://yandex.ru/clck/click
+Total=3
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=t60_RequestBody.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_60.xml
+FileName2=t60_bundle.html
+URL2=https://yastatic.net/q/set/s/rsya-tag-users/bundle.js
+FileName3=t60_client.html
+URL3=https://yastatic.net/q/ya-paranja/client.js
+[ProtocolInfo]
+ProtocolId=QTWeb

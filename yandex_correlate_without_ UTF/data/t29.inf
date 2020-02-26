@@ -1,0 +1,15 @@
+[t29]
+FileName1=t29.html
+URL1=https://mail.yandex.ru/web-api/models/liza1?_m=system-status
+Total=3
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=t29_RequestBody.txt
+ResponseHeaderFile=t29_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_29.xml
+FileName2=t29_TR2STky64Ra69XlYzqKN7cnjYfQ.html
+URL2=https://yastatic.net/islands/_/TR2STky64Ra69XlYzqKN7cnjYfQ.woff2
+FileName3=t29_48848f048d84b60111b5fe6e5f3ad29f-b-mail-icon_lang-kk.gif
+URL3=https://yastatic.net/s3/liza/_/48848f048d84b60111b5fe6e5f3ad29f-b-mail-icon_lang-kk.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

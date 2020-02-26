@@ -1,0 +1,11 @@
+[t67]
+FileName1=t67.html
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-ref=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&charset=utf-8&browser-info=ti%3A10%3Afu%3A3%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623277%3Au%3A
+Total=1
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_67.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

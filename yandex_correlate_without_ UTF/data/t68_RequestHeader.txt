@@ -1,0 +1,15 @@
+POST /watch/37412095?wmode=7&page-ref=https%3A%2F%2Fmail.yandex.ru%2F&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&charset=utf-8&site-info=%7B%22extensions%22%3A%22%22%2C%22fromGoogle%22%3A%22false%22%2C%22fromCancel%22%3A%22false%22%2C%22loyal%22%3A%220%22%2C%22sbscrb%22%3A%22%22%2C%22p%22%3A%22%22%2C%22b%22%3A%22%22%2C%22fresh%22%3A%220%22%2C%22infected%22%3A%22%22%2C%22slow%22%3A%22%22%2C%22os%22%3A%22windows%22%2C%22browser%22%3A%22chrome%22%2C%22winxp%22%3A%22false%22%2C%22old%22%3A%22%22%2C%22yabroAge%22%3A487%2C%22__ym%22%3A%7B%22parentIframe%22%3A%7B%22counterId%22%3A%2240081755%22%2C%22hid%22%3A1010272455%7D%7D%7D&browser-info=ti%3A10%3Ans%3A1574623268526%3As%3A1680x1050x24%3Ask%3A1%3Aifr%3A1%3Asti%3A0%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A1x1%3Az%3A180%3Ai%3A20191124222115%3Aet%3A1574623277%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Acpf%3A1%3Apv%3A1%3Als%3A566486317300%3Arqn%3A1%3Arn%3A375002982%3Ahid%3A726618926%3Ads%3A0%2C0%2C44%2C9%2C2%2C0%2C0%2C484%2C0%2C%2C%2C%2C554%3Agdpr%3A8%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623277%3Au%3A1574623277373563414 HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+Content-Length: 0
+Origin: https://yastatic.net
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Referer: https://yastatic.net/safeframe-bundles/0.69/1-1-0/render.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0; yabs-sid=2542913141574623208; _ym_isad=2; sync_cookie_csrf=2547317393fake; _ym_visorc_784657=b; Session_id=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.328440.vlg5bVzvR9l-FoHd9x_k0A-QGhY; sessionid2=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.955985.lp_pe9LtBrPQ9NEqM24xFDlrDC0; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=Zg5cVmBzXQVzYV1+AWlfDHJPBwQPVUcGMBgfTHpjBBcLGER8c0I=.1574623258.14059.328349.85fad42d9c3ab8c47d0238feabd29eb1; yandex_login=Alex.Under1093; i=idE/FkIl/edlCnXybL/w9FFpgvIZyn8Q7XvRK9Zf3OrMELVyrl9Gmb5ja+qAnk6U5wivJaJcjy2FjRjsUrDlKEzv5PU=; yabs-frequency=/4/0000000000000000/rbYmS7Wu8DLOi71uE240/; yp=1889983208.yrtsi.1574623208#1889983258.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D#1606159275.zmblt.487; my=YwA=
+

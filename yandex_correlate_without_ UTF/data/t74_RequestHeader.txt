@@ -1,0 +1,15 @@
+POST /monitoring_liza.txt?allTime=1097&allSumTime=6704.5.10%20DEV&requestTime=685&selfTime=412&full=1097&collectModels.0=12&requestModels.0=685&collectModels.1=17&requestModels.1=0&collectViews=3&generateHTML=20&html2node=14&triggerHideEvents=3&insertNodes=45&triggerEvents=294&showEditor=262&versionEditor=4.5.10%20DEV&blockname=compose-message-editor&request=685&event=BlockTimings&visibilityState=visible&show=1097&browser=Chrome&uid=586221334&cid=LIZA-88874651-1574623259044&login=alex-under1093&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fuid%3D586221334%23compose&cv=jane-19.8.1&lcl=ru&cdn=mskm&exp=189745%2C0%2C19%3B139071%2C0%2C85%3B142275%2C0%2C69%3B136883%2C0%2C38%3B135611%2C0%2C60%3B140619%2C0%2C14%3B160546%2C0%2C63%3B160678%2C0%2C44%3B185126%2C0%2C48%3B100970%2C0%2C14%3B158581%2C0%2C24%3B94810%2C0%2C40%3B189178%2C0%2C14%3B137858%2C0%2C95%3B165347%2C0%2C99%3B62697%2C0%2C78%3B189014%2C0%2C29%3B169671%2C0%2C45%3B182410%2C0%2C52%3B182406%2C0%2C54&kclbd=n&csw=0&lifetime=34&afterload=true HTTP/1.1
+Host: mail.yandex.ru
+Connection: keep-alive
+Content-Length: 0
+Origin: https://mail.yandex.ru
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Referer: https://mail.yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=1486360661574623206; _ym_wasSynced=%7B%22time%22%3A1574623208543%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D; _ym_uid=1574623209942202331; _ym_d=1574623209; mda=0; _ym_isad=2; _ym_visorc_784657=b; Session_id=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.328440.vlg5bVzvR9l-FoHd9x_k0A-QGhY; sessionid2=3:1574623258.5.0.1574623258661:VwryLg:22.1|586221334.0.2|208537.955985.lp_pe9LtBrPQ9NEqM24xFDlrDC0; ys=udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D; L=Zg5cVmBzXQVzYV1+AWlfDHJPBwQPVUcGMBgfTHpjBBcLGER8c0I=.1574623258.14059.328349.85fad42d9c3ab8c47d0238feabd29eb1; yandex_login=Alex.Under1093; i=idE/FkIl/edlCnXybL/w9FFpgvIZyn8Q7XvRK9Zf3OrMELVyrl9Gmb5ja+qAnk6U5wivJaJcjy2FjRjsUrDlKEzv5PU=; stngs=stngs.1%3Acolorful%3A%3Atrue%3Atrue; ymai_iale=0; ymai_blc=300_416_8_1680_939; ymai_llc=1275_142_366_1680_939; yabs-frequency=/4/0000000000000000/rbYmS7Wu8DLOi71uE240/; yp=1889983208.yrtsi.1574623208#1889983258.udn.cDpBbGV4LlVuZGVyMTA5Mw%3D%3D#1606159275.zmblt.487; my=YwA=
+

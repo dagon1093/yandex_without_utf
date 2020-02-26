@@ -1,0 +1,12 @@
+GET /?uid=586221334 HTTP/1.1
+Referer: https://mail.yandex.ru/
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Accept: */*
+Connection: Keep-Alive
+Host: mail.yandex.ru
+Cookie: yandexuid=2234480581582747498; yp=1898107503.multib.1#1585339504.ygu.1; ys=; L=A1MEd2BKUQRQXFtkRFkFDXdbemx2QWNPGRQKT10tOi1QOXBfcF4=.1582747501.14153.395934.f024a9f1d79e57c974037c188a90b4dc; i=dvxomq1XDzUjsKDCVqvKFivzx2sWpYj7OuawmqUmeuib7ucsCiN9mnuQ8O87sAnwa9NdS2SV7yjRkFvi/BY5zTgVJGM=; mda=0; yandex_gid=213; yuidss=2234480581582747498; yabs-frequency=/4/0000000000000000/U_8zRV0v9m00/
+

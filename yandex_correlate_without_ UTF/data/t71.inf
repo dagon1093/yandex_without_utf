@@ -1,0 +1,13 @@
+[t71]
+FileName1=t71.gif
+URL1=https://mc.yandex.ru/watch/45507111?page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&charset=utf-8&force-urlencoded=1&browser-info=ti%3A1%3Adp%3A1%3Ans%3A1574623268401%3As%3A1680x1050x24%3Ask%3A1%3Aifr%3A1%3Asti%3A0%3Aadb%3A2%3Afpr%3A67501995301%3Acn%3A1%3Aw%3A0x0%3Az%3A180%3Ai%3A20191124222131%3Aet%3A1574623292%3Aen%3Autf-8%3Ac%3A1%3Ala%3Aru-ru%3Antf%3A1%3Aar%3A1%3Anb%3A1%3Acl%3A285%3Als%3A799699918425%3Arqn%3A2%3Arn%3A846675712%3Ahid%3A49528133%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Agdpr%3A8%3Afu%3A1%3Av%3A1744%3Arqnl%3A1%3Ast%3A1574623292%3Au%3A1574623277373563414%3App%3A3629563401
+Total=1
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t71_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_71.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

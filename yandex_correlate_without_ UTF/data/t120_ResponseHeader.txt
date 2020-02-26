@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sun, 24 Nov 2019 19:22:25 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=120
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net; script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-2c5fedaa-69e5-4b49-9f5c-cc7ff26d43ab'; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru; frame-ancestors 'self'; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&yandex_login=&yandexuid=1486360661574623206
+X-Frame-Options: DENY
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 1; mode=block
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+X-Yandex-Passport-Authorize: 1
+Set-Cookie: lah=XB1kZ0Xd5fPWUnbXhbqHMGp3Gi9ZChNLXwEUUDFEW0NXWTU1Kx81ME5MGkQ.1574623345.14059.1.ea3c271a23a435182bf9cf8abe6241d6; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/
+ETag: W/"83c9-3GluBFHSbRqvSsrGLduxwFvnEUU"
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+Content-Encoding: gzip
+
