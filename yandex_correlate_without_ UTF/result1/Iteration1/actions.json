@@ -6,104 +6,104 @@
                 "stepId": "STEP1",
                 "stepName": "Url: mail.yandex.ru",
                 "infFile": "t2.inf",
-                "time": 1584287241139
+                "time": 1584287853709
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: auth",
                 "infFile": "t6.inf",
-                "time": 1584287242837
+                "time": 1584287855449
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: start",
                 "infFile": "t9.inf",
-                "time": 1584287243145
+                "time": 1584287855764
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Submit Data: commit_password",
                 "infFile": "t12.inf",
-                "time": 1584287243358
+                "time": 1584287856018
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Submit Data: accounts",
                 "infFile": "t14.inf",
-                "time": 1584287243515
+                "time": 1584287856178
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Submit Data: ask_v2",
                 "infFile": "t15.inf",
-                "time": 1584287243572
+                "time": 1584287856242
             },
             {
                 "stepId": "STEP7",
                 "stepName": "Url: redirect",
                 "infFile": "t18.inf",
-                "time": 1584287245008
+                "time": 1584287857802
             },
             {
                 "stepId": "STEP8",
                 "stepName": "Url: data",
                 "infFile": "t21.inf",
-                "time": 1584287245284
+                "time": 1584287857997
             },
             {
                 "stepId": "STEP9",
                 "stepName": "Custom Request: liza1_29",
                 "infFile": "t22.inf",
-                "time": 1584287245721
+                "time": 1584287858389
             },
             {
                 "stepId": "STEP10",
                 "stepName": "Url: passport",
                 "infFile": "t23.inf",
-                "time": 1584287248377
+                "time": 1584287861617
             },
             {
                 "stepId": "STEP11",
                 "stepName": "Url: mail.yandex.ru_2",
                 "infFile": "t25.inf",
-                "time": 1584287248787
+                "time": 1584287862028
             }
         ],
         "transactions": [
             {
                 "transactionName": "0_homepage",
-                "rawStartTime": 1584287240084,
-                "rawEndTime": 1584287241140,
+                "rawStartTime": 1584287852973,
+                "rawEndTime": 1584287853710,
                 "thinkTime": 0.0,
-                "wastedTime": 0.1939220428466797
+                "wastedTime": 0.1607348918914795
             },
             {
                 "transactionName": "1_login",
-                "rawStartTime": 1584287241141,
-                "rawEndTime": 1584287242838,
+                "rawStartTime": 1584287853711,
+                "rawEndTime": 1584287855449,
                 "thinkTime": 0.0,
-                "wastedTime": 0.08368325233459473
+                "wastedTime": 0.07448792457580567
             },
             {
                 "transactionName": "2_login",
-                "rawStartTime": 1584287242839,
-                "rawEndTime": 1584287245285,
+                "rawStartTime": 1584287855450,
+                "rawEndTime": 1584287857997,
                 "thinkTime": 0.0,
-                "wastedTime": 0.21720228385925295
+                "wastedTime": 0.20185856819152835
             },
             {
                 "transactionName": "4_send_message",
-                "rawStartTime": 1584287245286,
-                "rawEndTime": 1584287245732,
+                "rawStartTime": 1584287857998,
+                "rawEndTime": 1584287858399,
                 "thinkTime": 0.0,
-                "wastedTime": 0.005475282669067383
+                "wastedTime": 0.006571769714355469
             },
             {
                 "transactionName": "5_logout",
-                "rawStartTime": 1584287245733,
-                "rawEndTime": 1584287248791,
+                "rawStartTime": 1584287858400,
+                "rawEndTime": 1584287862031,
                 "thinkTime": 0.0,
-                "wastedTime": 0.23304986953735352
+                "wastedTime": 0.27588939666748049
             }
         ]
     }

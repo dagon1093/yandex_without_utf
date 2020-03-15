@@ -8,5 +8,5 @@ Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
 Accept: */*
 Connection: Keep-Alive
 Host: mail.yandex.ru
-Cookie: yandexuid=7109631751584287242; yp=1899647247.multib.1#1586879248.ygu.1; ys=; L=A3YDAURrRAZOSXIHfHpcXlp7em1+UgUBEXoWHh1gcglc.1584287245.14171.335979.f1a4b93f0d76205d4dd216b86226c8f1; i=mVP3NqXRmmHWAuOM4kZR3Qe/WA1CsN+kT34uqX0RzaLoelH6Fegm4V+AVlYRlmikbjANLJ7ql23n/qtmFgojnkGtk1c=; mda=0; yandex_gid=213; yuidss=7109631751584287242; yabs-frequency=/4/0000000000000000/U_8zRJWw9m00/
+Cookie: yandexuid=6107277161584287854; yp=1899647860.multib.1#1586879861.ygu.1; ys=; L=A3YDAURrRAZOSXIHfHRSW154fG56UgYHEXoWHh1gcglc.1584287857.14171.356697.b048b0bd5c0627b954e406207d2a4ef1; i=aL5A4cIXgHISP54tn3qgJuFDp8ThrtIUN+wVL/D64NjD1UmRjY+E9Rke3GXvu2mq0M8FdSgxJGef4/cCJX7GPuTWCrs=; mda=0; yandex_gid=213; yuidss=6107277161584287854; yabs-frequency=/4/0000000000000000/K84-RJWw9m00/
 

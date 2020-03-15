@@ -4,9 +4,9 @@ Access-Control-Allow-Origin: https://yastatic.net
 Cache-Control: public,max-age=300
 Content-Length: 403
 Content-Type: application/json; charset=utf-8
-Date: Sun, 15 Mar 2020 15:47:27 GMT
-Set-Cookie: i=mVP3NqXRmmHWAuOM4kZR3Qe/WA1CsN+kT34uqX0RzaLoelH6Fegm4V+AVlYRlmikbjANLJ7ql23n/qtmFgojnkGtk1c=; Expires=Wed, 13-Mar-2030 15:47:27 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+Date: Sun, 15 Mar 2020 15:57:39 GMT
+Set-Cookie: i=aL5A4cIXgHISP54tn3qgJuFDp8ThrtIUN+wVL/D64NjD1UmRjY+E9Rke3GXvu2mq0M8FdSgxJGef4/cCJX7GPuTWCrs=; Expires=Wed, 13-Mar-2030 15:57:39 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
 X-Content-Type-Options: nosniff
 X-XSS-Protection: 1; mode=block
-X-qloud-router: sas1-6dc26f9441b7.qloud-c.yandex.net
+X-qloud-router: vla5-39c8a746a916.qloud-c.yandex.net
 

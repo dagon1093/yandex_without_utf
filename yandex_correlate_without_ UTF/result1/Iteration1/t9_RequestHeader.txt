@@ -11,6 +11,6 @@ Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
 Accept: */*
 Connection: Keep-Alive
 Host: passport.yandex.ru
-Cookie: yandexuid=7109631751584287242; uniqueuid=311353471584287243
+Cookie: yandexuid=6107277161584287854; uniqueuid=946672641584287855
 Content-Length: 228
 

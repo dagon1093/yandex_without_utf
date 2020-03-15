@@ -1,3 +1,3 @@
-"csrf_token=a6fb13857764571e49af01a0ce9bb051e4f051e0%3A1584287243104&login=d4gon1093%40yandex.r"
-"u&process_uuid=091275c0-2943-4b37-ab60-63f3755533ad&retpath=https%3A%2F%2Fmail.yandex.ru%2F&or"
+"csrf_token=9b6db20fc6aa52ecad02b4fb4a7dd47055af5eee%3A1584287855687&login=d4gon1093%40yandex.r"
+"u&process_uuid=3a6edc7c-0db5-45d9-a36a-01a471fc3e55&retpath=https%3A%2F%2Fmail.yandex.ru%2F&or"
 "igin=hostroot_homer_auth_ru&service=mail"

@@ -37,9 +37,7 @@ RuleName ='yandexuid'*/
 		LAST);
 
 	lr_end_transaction("0_homepage", LR_AUTO);
-	
-	
-	
+
 	
 
 	lr_start_transaction("1_login");
@@ -93,7 +91,7 @@ AppName ='yandex'
 RuleName ='csrf_token'*/
 	web_reg_save_param_regexp(
 		"ParamName=csrf_token",
-		"RegExp=data-csrf=\"(.*?)\" data-metrics-id",
+		"RegExp=data-csrf=\"(.*?)\"",
 		"Ordinal=1",
 		SEARCH_FILTERS,
 		"Scope=Body",
@@ -305,8 +303,7 @@ AppName ='yandex'
 RuleName ='ckey'*/
 	web_reg_save_param_regexp(
 		"ParamName=CorrelationParameter_1",
-		"RegExp=\"ckey\":\"(.*?)\"}},",
-		"Ordinal=1",
+		"RegExp=\"ckey\":\"(.*?)\"",
 		SEARCH_FILTERS,
 		"Scope=Body",
 		"IgnoreRedirections=Yes",
