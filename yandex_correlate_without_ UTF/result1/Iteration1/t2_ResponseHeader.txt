@@ -1,17 +1,17 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 26 Feb 2020 20:04:58 GMT
+Date: Sun, 15 Mar 2020 15:47:22 GMT
 Content-Type: text/html; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 Vary: Accept-Encoding
-Set-Cookie: yandexuid=2234480581582747498; Domain=.yandex.ru; Path=/; Expires=Tue, 26 Feb 2030 20:04:58 GMT; Secure; SameSite=None
-Content-Security-Policy: default-src 'none'; connect-src 'self' mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru; font-src yastatic.net; img-src yastatic.net www.tns-counter.ru data: 'self' *.captcha.yandex.net mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru; script-src yastatic.net 'nonce-csOodaQv8cJ13A9WjvZnLA==' mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org; style-src 'unsafe-inline' yastatic.net; child-src blob: mc.yandex.ru; frame-src blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?project=homer&from=mail-homer&version=1.16.2&yandexuid=2234480581582747498&yandex_login=&puid=&reqid=HOMER-73771345-1582747498609;
+Set-Cookie: yandexuid=7109631751584287242; Domain=.yandex.ru; Path=/; Expires=Fri, 15 Mar 2030 15:47:22 GMT; Secure; SameSite=None
+Content-Security-Policy: default-src 'none'; connect-src 'self' mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru; font-src yastatic.net; img-src yastatic.net www.tns-counter.ru data: 'self' *.captcha.yandex.net mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org mc.admetrica.ru; script-src yastatic.net 'nonce-/XGrEGKd2snp/jfik6ct3g==' mc.yandex.az mc.yandex.by mc.yandex.co.il mc.yandex.com mc.yandex.com.am mc.yandex.com.ge mc.yandex.com.tr mc.yandex.ee mc.yandex.fr mc.yandex.kg mc.yandex.kz mc.yandex.lt mc.yandex.lv mc.yandex.md mc.yandex.ru mc.yandex.tj mc.yandex.tm mc.yandex.ua mc.yandex.uz mc.webvisor.com mc.webvisor.org; style-src 'unsafe-inline' yastatic.net; child-src blob: mc.yandex.ru; frame-src blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?project=homer&from=mail-homer&version=1.16.2&yandexuid=7109631751584287242&yandex_login=&puid=&reqid=HOMER-55772254-1584287242300;
 Content-Encoding: gzip
 X-Frame-Options: SAMEORIGIN
 x-dns-prefetch-control: off
 Strict-Transport-Security: max-age=315360000
 Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0
-X-Request-Id: 47c26614bc99b301351e7879cd5b4c97
+X-Request-Id: d930bd9a73f247254f3ac6fbf91603a4
 X-XSS-Protection: 1; mode=block
 

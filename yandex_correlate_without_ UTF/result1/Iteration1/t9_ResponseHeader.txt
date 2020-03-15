@@ -1,11 +1,11 @@
 HTTP/1.1 200 OK
 Server: nginx
-Date: Wed, 26 Feb 2020 20:05:00 GMT
+Date: Sun, 15 Mar 2020 15:47:24 GMT
 Content-Type: application/json; charset=utf-8
-Content-Length: 312
+Content-Length: 307
 Connection: keep-alive
 Keep-Alive: timeout=120
-Content-Security-Policy: default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net; script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-2da62d3e-be6e-4ab9-81f7-39c0eb305515' https://yandex.ru/global-notifications/butterfly/stable/butterfly.js; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru; frame-ancestors 'self'; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru https://yandex.ru/forms https://forms.yandex.ru/; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&yandex_login=&yandexuid=2234480581582747498
+Content-Security-Policy: default-src 'none'; style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net; script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-7a600e06-7eb1-401d-9940-cd87eee5f461' https://yandex.ru/global-notifications/butterfly/stable/butterfly.js; img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net mc.webvisor.com mc.webvisor.org; font-src 'self' data: yastatic.net; object-src yastatic.net; media-src *.captcha.yandex.net data:; connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru; frame-ancestors 'self'; frame-src 'self' yandex.st s4.money.yandex.net yandex.ru  pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru https://yandex.ru/forms https://forms.yandex.ru/; child-src 'self' yandex.st yandex.ru  passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru; report-uri https://csp.yandex.net/csp?from=passport&yandex_login=&yandexuid=7109631751584287242
 X-Frame-Options: DENY
 X-Download-Options: noopen
 X-Content-Type-Options: nosniff
@@ -16,6 +16,6 @@ Expires: 0
 X-DNS-Prefetch-Control: off
 X-XSS-Protection: 1; mode=block
 P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
-ETag: W/"138-jp/htCfOfODlxv1EFjDgMML1I2I"
+ETag: W/"133-FbplTwbf5d6jU9O6r4ajepvHd9c"
 Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
 

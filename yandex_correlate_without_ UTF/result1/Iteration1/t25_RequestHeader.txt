@@ -1,4 +1,4 @@
-GET /?uid=586221334 HTTP/1.1
+GET /?uid=337788035 HTTP/1.1
 Referer: https://mail.yandex.ru/
 Sec-Fetch-Mode: navigate
 Sec-Fetch-Site: same-origin
@@ -8,5 +8,5 @@ Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
 Accept: */*
 Connection: Keep-Alive
 Host: mail.yandex.ru
-Cookie: yandexuid=2234480581582747498; yp=1898107503.multib.1#1585339504.ygu.1; ys=; L=A1MEd2BKUQRQXFtkRFkFDXdbemx2QWNPGRQKT10tOi1QOXBfcF4=.1582747501.14153.395934.f024a9f1d79e57c974037c188a90b4dc; i=dvxomq1XDzUjsKDCVqvKFivzx2sWpYj7OuawmqUmeuib7ucsCiN9mnuQ8O87sAnwa9NdS2SV7yjRkFvi/BY5zTgVJGM=; mda=0; yandex_gid=213; yuidss=2234480581582747498; yabs-frequency=/4/0000000000000000/U_8zRV0v9m00/
+Cookie: yandexuid=7109631751584287242; yp=1899647247.multib.1#1586879248.ygu.1; ys=; L=A3YDAURrRAZOSXIHfHpcXlp7em1+UgUBEXoWHh1gcglc.1584287245.14171.335979.f1a4b93f0d76205d4dd216b86226c8f1; i=mVP3NqXRmmHWAuOM4kZR3Qe/WA1CsN+kT34uqX0RzaLoelH6Fegm4V+AVlYRlmikbjANLJ7ql23n/qtmFgojnkGtk1c=; mda=0; yandex_gid=213; yuidss=7109631751584287242; yabs-frequency=/4/0000000000000000/U_8zRJWw9m00/
 

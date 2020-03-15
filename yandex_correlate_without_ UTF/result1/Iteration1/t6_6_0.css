@@ -1,1 +1,726 @@
+.passp-form.passp-AuthConfirmationBySMSForm-form{margin-top:0;margin-bottom:0}
+.Button+.Button{margin-top:15px}.Button-size_m .control{font-size:14px;border-radius:4px;line-height:40px;height:40px;padding:0}.Button-size_m .control .button2__text{margin:0 10px}
+.Title{font-family:YS Text,Arial,sans-serif;font-style:normal;font-weight:700;font-size:20px;line-height:23px;margin:0 0 16px;color:#000}.Title-size_m{font-weight:400;font-size:16px}
+.Description{font-size:14px;line-height:18px}
+.BackButton{width:28px;height:28px;cursor:pointer;border:none;background-color:transparent;background-image:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjgiIGhlaWdodD0iMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTQiIGN5PSIxNCIgcj0iMTQiIGZpbGw9IiMwMDAiIGZpbGwtb3BhY2l0eT0iLjMiLz48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTExLjc0NiAxNC4xNzNsNS4xNjEgNS4xNjJhLjIuMiAwIDAxMCAuMjgzbC0xLjEzIDEuMTMxYS4yLjIgMCAwMS0uMjg0IDBMOS4wNiAxNC4zMTRhLjIuMiAwIDAxMC0uMjgzbDYuNDctNi40NzFhLjIuMiAwIDAxLjI4MyAwbDEuMTMyIDEuMTNhLjIuMiAwIDAxMCAuMjg0bC01LjIgNS4yeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==");border-radius:50%}.BackButton:hover{background-color:#999}.BackButton-place_with-suggest-to-restore-by-phone-in-da-house{position:absolute;top:-98px;left:20px}
+.PhoneConfirmationCode{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.PhoneConfirmationCode _:-ms-fullscreen,:root .PhoneConfirmationCode{min-height:auto}.PhoneConfirmationCode-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PhoneConfirmationCode-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.PhoneConfirmationCode{min-height:auto}.PhoneConfirmationCode-body,.PhoneConfirmationCode-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PhoneConfirmationCode-head{min-height:70px}}.PhoneConfirmationCode a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.PhoneConfirmationCode a:hover{color:#04b}.PhoneConfirmationCode-description b{display:block}.PhoneConfirmationCode-controls{margin:0}.PhoneConfirmationCode-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.PhoneConfirmationCode-controls-row .Button{margin-top:0;min-width:116px}.PhoneConfirmationCode-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.PhoneConfirmationCode-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.PhoneConfirmationCode-input{font-size:16px;line-height:20px;text-align:center;height:40px;width:28px;padding:0 2px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border-radius:4px;outline:none;border:1px solid rgba(0,0,0,.1);margin-top:1px;margin-right:8px;-webkit-appearance:none;-moz-appearance:none;appearance:none}.PhoneConfirmationCode-input-error{border-color:#ff5a4c}.PhoneConfirmationCode-input:focus{margin-top:0;border:2px solid #fc0}.PhoneConfirmationCode-input:last-child{margin-right:0}.PhoneConfirmationCode-inputs-long .PhoneConfirmationCode-input:nth-child(3n){margin-right:16px}.PhoneConfirmationCode-error{margin-bottom:5px;font-size:14px;text-align:left;color:#df4b41;margin-top:15px}.is-tablet .PhoneConfirmationCode-error,.is-touch .PhoneConfirmationCode-error{font-size:15px}.PhoneConfirmationCode-phone-prefix{font-weight:700;font-size:16px;margin:1px 7px 0 0}.PhoneConfirmationCode-code{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-moz-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;white-space:nowrap;width:216px;margin:0 auto}.PhoneConfirmationCode-confirmmethod_by_flash_call{width:233px}.PhoneConfirmationCode-body{padding:0 0 55px;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center}@media (max-width:650px){.PhoneConfirmationCode-body{padding:15px 0 30px}}.PhoneConfirmationCode-check-phone{margin-top:6px;font-weight:700;font-size:16px;line-height:20px}.PhoneConfirmationCode-back-button{margin:-20px 0 16px -9px}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:309px}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode _:-ms-fullscreen,:root .RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode{min-height:auto}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-body{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0;margin-bottom:15px}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode a:hover{color:#04b}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-controls{margin:0 -4px}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-controls-row .Button{margin-top:0;min-width:116px}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-code{margin:0 auto}.RegistrationWithSuggestToRestoreByPhone .PhoneConfirmationCode-body{padding:0 0 15px}
+.passp-form-field{position:relative;margin-bottom:20px}.passp-form-field+.passp-form-field{margin-top:30px}.passp-form-field__label{position:absolute;z-index:200;display:inline-block;left:0;top:2px;font-size:16px;width:100%;height:15px;-webkit-transform:translateY(5px);-ms-transform:translateY(5px);-o-transform:translateY(5px);transform:translateY(5px);-webkit-transform-origin:0 0;-ms-transform-origin:0 0;-o-transform-origin:0 0;transform-origin:0 0;white-space:nowrap;will-change:transform;-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:-o-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s,-o-transform .5s;color:#999;cursor:text}.passp-form-field__label a{color:#3d71bd;-webkit-transition:color .15s ease-out 0s;-o-transition:color .15s ease-out 0s;transition:color .15s ease-out 0s;text-decoration:none}.passp-form-field__label a:hover{color:#e00}.is-tablet .passp-form-field__label,.is-touch .passp-form-field__label{font-size:17px!important}.passp-form-field__input input:-webkit-autofill+.passp-form-field__label{-webkit-transform:translateY(-18px) scale(.8);transform:translateY(-18px) scale(.8);-webkit-transform-origin:0 0;transform-origin:0 0}.passp-form-field_filled .passp-form-field__label,.passp-form-field_focused .passp-form-field__label{-webkit-transform:translateY(-18px) scale(.8);-ms-transform:translateY(-18px) scale(.8);-o-transform:translateY(-18px) scale(.8);transform:translateY(-18px) scale(.8);-webkit-transform-origin:0 0;-ms-transform-origin:0 0;-o-transform-origin:0 0;transform-origin:0 0}.passp-form-field__input{position:relative}.passp-form-field__input input{position:relative;z-index:2;width:100%;height:32px;border-width:0;vertical-align:top;outline:none;background:0 0;font-family:YS Text,Arial,sans-serif!important;font-size:16px!important;font-weight:500;color:#000}.is-tablet .passp-form-field__input input,.is-touch .passp-form-field__input input{font-size:17px!important}.passp-form-field__input{width:100%;height:35px;margin-bottom:5px}.passp-form-field__input input{position:absolute;top:0;bottom:3px;left:0;right:0;z-index:1;padding-left:0;border-radius:0;background-color:#fff;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:solid rgba(0,0,0,.2);border-width:0 0 1px}.passp-form-field input{border-width:0 0 1px}.passp-form-field input:-webkit-autofill{border-bottom-width:2px}.passp-form-field input:focus{border:solid #ffdb4d;border-width:0 0 2px}.passp-form-field__input:after{position:absolute;left:0;bottom:3px;content:"";height:2px;background:#df4b41;width:0;z-index:1;-webkit-transition:width .3s ease-in-out;-o-transition:width .3s ease-in-out;transition:width .3s ease-in-out}.passp-form-field_failed .passp-form-field__input:after{width:100%}.passp-form-field_failed.passp-form-field_focused .passp-form-field__input:after{width:0}.passp-form-field_valid .passp-form-field__input:after{position:absolute;top:4px;left:285px;content:"";width:6px;height:15px;background:transparent;border:solid #37b24d;border-width:0 2px 2px 0;-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.passp-form-field_valid+.passp-password-field__eye{-webkit-transition:-webkit-transform .5s;transition:-webkit-transform .5s;-o-transition:-o-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s,-o-transform .5s;-webkit-transform:translate(-25px);-ms-transform:translate(-25px);-o-transform:translate(-25px);transform:translate(-25px)}.passp-form-field__error{margin-bottom:5px;left:0;font-size:14px;text-align:left;color:#df4b41}.is-tablet .passp-form-field__error,.is-touch .passp-form-field__error{font-size:15px}.passp-form-field__link{margin-bottom:5px;left:0;font-size:14px;text-align:left}.is-tablet .passp-form-field__link,.is-touch .passp-form-field__link{font-size:15px}.passp-form-field_checkbox .passp-form-field__input{line-height:14px;height:unset}.passp-form-field_checkbox .passp-form-field__input input{margin:0 5px 0 0}.passp-form-field_checkbox .passp-form-field__input input,.passp-form-field_checkbox .passp-form-field__label{position:static;width:unset;height:unset;white-space:unset;display:unset;font-size:13px!important;cursor:pointer}.is-touch .passp-form-field_valid .passp-form-field__input:after{left:95%}
+.LoginSuggest-list{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-flex-flow:wrap;-ms-flex-flow:wrap;flex-flow:wrap}.LoginSuggest-item{display:inline-block;padding:0 10px;font-size:14px;line-height:28px;background-color:rgba(34,34,34,.1);border-radius:18px;margin:0 8px 8px 0;cursor:pointer;-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;text-align:center}
+.LoginSignUp{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:309px}.LoginSignUp _:-ms-fullscreen,:root .LoginSignUp{min-height:auto}.LoginSignUp-body{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1}.LoginSignUp-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0;margin-bottom:15px}.LoginSignUp a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.LoginSignUp a:hover{color:#04b}.LoginSignUp-controls{margin:0 -4px}.LoginSignUp-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LoginSignUp-controls-row .Button{margin-top:0;min-width:116px}.LoginSignUp-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.LoginSignUp-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.LoginSignUp-user-avatar{width:72px;height:72px;margin-bottom:32px;border-radius:50%;background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSI+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwKSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzY3OTQzNiIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0E1QkUwMCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0MzM0M1NCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzY3OTQzNiIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0EzMzMzRCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0YxOEYwMSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzVEQTM5OSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzM4QUVDQyIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzM5NzM2NyIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0ZGNTk1RSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzhBQzkyNyIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzYzQ0NDQSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0JEQURFQSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0Y2NDc0MCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0EzNzg3MSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzZBNEM5MyIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzk5QzI0RCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0YyNjQxQSIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzEwQjI5NyIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzAwQTZGQiIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0VFQjkwMCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0Q4MzE1QiIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iI0Y0NUQwMiIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzI1OUQzOCIvPjxwYXRoIGQ9Ik0wIDM2QzAgMTYuMTE4IDE2LjExOCAwIDM2IDBzMzYgMTYuMTE4IDM2IDM2LTE2LjExOCAzNi0zNiAzNlMwIDU1Ljg4MiAwIDM2eiIgZmlsbD0iIzE2NzBCNyIvPjxwYXRoIGQ9Ik00Ni44ODQgMTguNjJjMS4yLS4zNDUgMy4wODUtMS41NTIgMy4wODUtMS41NTJzLTMuNi0uMTcyLTUuMzE0LS42OWMxLjU0My0xLjU1IDEuNTQzLTQuNDc5IDEuNTQzLTQuNDc5cy0zLjc3MiAxLjU1LTkuMDg2IDEuNTVjLTMuNzcxLS4xNzEtNS4xNDMtLjY5LTcuODg2IDIuMDctMy4yNTcgMy4yNzItMy4yNTcgNC4xMzQtNS4zMTQgNC4xMzQgMS43MTQgMi40MTIuODU3IDQuODI2Ljg1NyA0LjgyNmwtLjE3MSAzLjYxOC4xNzEuNjlzMCAuMTcxLjE3Mi41MTVjMCAuMTc0IDAgLjUxOC4xNzEuNjlsLjUxNCAyLjc1OHMtLjE3MS4xNzItLjM0MyAwYy0uNTE0LS42OS0xLjItMS4wMzQtMi4wNTYtMS4wMzQtLjUxNSAwLTEuMzcyIDEuMzc4LS42ODYgMy4yNzMuNTE0IDEuMzggMS4wMjggMi4yNCAxLjU0MyA0LjEzNy41MTQgMS44OTYgMS41NDIgMy4yNzQgMi4wNTcgMi45My4xNzEtLjE3NC4zNDItLjY5LjUxNC0xLjU1MiAwLS4xNzIuMTcxIDAgLjM0My4xNzMuMTcxIDEuNzIzLjUxNCAzLjI3My44NTcgNC4xMzUuMzQzLjUxNy42ODYgMS4yMDYgMS4wMjkgMS43MjMtLjM0MyAyLjkzLS42ODYgNi41NDgtMS4zNzIgOS4zMDUtNC4yNjQgMS4xNTQtMTIuMDQ1IDMuMzY3LTE3Ljc5MiA0Ljc2QzE2LjI4OSA2Ny42MTYgMjUuNjMyIDcyIDM2IDcyYTM1Ljg0IDM1Ljg0IDAgMDAyMS41MjItNy4xMzhjLTQuOTQ5LTIuOTY5LTExLjkxNS03Ljk4OC0xNC41ODEtNy45ODhoLTYuNTE1Yy0xLjU0MiAwLTQuOC0xLjM3OS01LjE0Mi0yLjU4NC0uMzQzLS44NjItLjM0My0yLjQxNC0uMTcyLTMuNzkyIDAtLjE3MS4zNDMtLjE3MS41MTQgMCAxLjM3MiAxLjU1MiAyLjA1NyAyLjU4NSAzLjQyOSAyLjU4NWgzLjA4NmMxLjIgMCA1LjMxNC0zLjYxOSA3LjAyOC04LjA5OC4zNDMtMS4wMzUuNjg2LTIuNzU4Ljg1Ny00LjY1MyAwLS4xNzMuMTcyLS4zNDYuMTcyLS4xNzMuMTcxLjg2My41MTQgMS44OTYuNjg2IDEuODk2LjUxNC4zNDUgMS4yLTEuMDMzIDIuMDU3LTIuOTMuODU3LTEuNzIyLjg1Ny0yLjc1NiAxLjItNC4xMzYuNTE0LTEuODk1LS4xNzItMy4yNzMtLjY4Ni0zLjI3M3MtLjg1Ny4xNzItMS4yLjUxNmMtLjE3MiAwLS4zNDMgMC0uMzQzLS4xNzEgMC0xLjIwNy4xNzEtMy4xMDMgMS41NDMtNC4xMzctMS44ODYtMS43MjMtLjY4Ni00LjY1Mi0uNjg2LTQuNjUyLjY4Ni4zNDQgMS43MTUuMzQ0IDEuNzE1LjM0NGwtMS4zNzItMi4yNGMxLjAyOS0uMTcyIDEuODg2LTEuMDM0IDEuODg2LTEuMDM0cy0yLjc0My0uNjg5LTQuMTE0LTEuNzIzeiIgZmlsbD0iI2ZmZiIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDcydjcySDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+")}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp _:-ms-fullscreen,:root .RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp{min-height:auto}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp{min-height:auto}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-body,.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-head{min-height:70px}}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp a:hover{color:#04b}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-controls{margin:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-controls-row .Button{margin-top:0;min-width:116px}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .LoginSignUp-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}
+.Phone{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:309px}.Phone _:-ms-fullscreen,:root .Phone{min-height:auto}.Phone-body{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1}.Phone-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0;margin-bottom:15px}.Phone a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.Phone a:hover{color:#04b}.Phone-controls{margin:0 -4px}.Phone-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.Phone-controls-row .Button{margin-top:0;min-width:116px}.Phone-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.Phone-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone _:-ms-fullscreen,:root .RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone{min-height:auto}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone{min-height:auto}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-body,.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-head{min-height:70px}}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone a:hover{color:#04b}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-controls{margin:0}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-controls-row .Button{margin-top:0;min-width:116px}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.RegistrationWithSuggestToRestoreByPhoneInDaHouse .Phone-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}
+.PersonalDataSignUpInDaHouse{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.PersonalDataSignUpInDaHouse _:-ms-fullscreen,:root .PersonalDataSignUpInDaHouse{min-height:auto}.PersonalDataSignUpInDaHouse-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PersonalDataSignUpInDaHouse-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.PersonalDataSignUpInDaHouse{min-height:auto}.PersonalDataSignUpInDaHouse-body,.PersonalDataSignUpInDaHouse-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PersonalDataSignUpInDaHouse-head{min-height:70px}}.PersonalDataSignUpInDaHouse a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.PersonalDataSignUpInDaHouse a:hover{color:#04b}.PersonalDataSignUpInDaHouse-controls{margin:0}.PersonalDataSignUpInDaHouse-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.PersonalDataSignUpInDaHouse-controls-row .Button{margin-top:0;min-width:116px}.PersonalDataSignUpInDaHouse-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.PersonalDataSignUpInDaHouse-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}
+.Password{position:relative}.Password-toggler{cursor:pointer;z-index:300;position:absolute;top:0;right:0;width:30px;height:30px;background-color:transparent;background-repeat:no-repeat;background-position:50%;overflow:hidden;background-image:url("data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDE5Yy0yLjY3IDAtNS4zODktMS4yNzItNy44MzItMy4zODItLjk1LS44Mi0xLjkxNC0xLjcyMS0yLjU0Ny0yLjU1MkE4LjIgOC4yIDAgMDExIDEyLjE0NEMuOTIgMTIgLjg4MiAxMS45MDQuODgyIDEyUy45MiAxMiAxIDExLjg1NmMuMTQtLjI1Mi4zNTQtLjU3MS42Mi0uOTIyLjYzNC0uODMgMS41OTktMS43MzIgMi41NDgtMi41NTJDNi42MTEgNi4yNzIgOS4zMyA1IDEyIDVzNS4zODkgMS4yNzIgNy44MzIgMy4zODJjLjk1LjgyIDEuOTE0IDEuNzIxIDIuNTQ3IDIuNTUyLjI2Ny4zNS40OC42Ny42MjEuOTIyLjA4LjE0NC4xMTguMjQuMTE4LjE0NHMtLjAzOCAwLS4xMTguMTQ0Yy0uMTQuMjUyLS4zNTQuNTcxLS42Mi45MjItLjYzNC44My0xLjU5OSAxLjczMi0yLjU0OCAyLjU1MkMxNy4zODkgMTcuNzI4IDE0LjY3IDE5IDEyIDE5em0wLTJhNSA1IDAgMTAwLTEwIDUgNSAwIDAwMCAxMHptMC0yYTMgMyAwIDExMC02IDMgMyAwIDAxMCA2eiIvPjwvc3ZnPg==")}.Password-toggler,.Password-toggler:active,.Password-toggler:focus{border:none;outline:none}.Password-toggler_visible{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZD0iTTguMDE0IDE4LjEwN2wxLjY3My0xLjY3M2E1IDUgMCAwMDYuNzQ3LTYuNzQ3bDIuMjMyLTIuMjMyYy4zOTUuMjg3Ljc4NC41OTcgMS4xNjYuOTI3Ljk1LjgyIDEuOTE0IDEuNzIxIDIuNTQ3IDIuNTUyLjI2Ny4zNS40OC42Ny42MjEuOTIyLjA4LjE0NC4xMTguMjQuMTE4LjE0NHMtLjAzOCAwLS4xMTguMTQ0Yy0uMTQuMjUyLS4zNTQuNTcxLS42Mi45MjItLjYzNC44My0xLjU5OSAxLjczMi0yLjU0OCAyLjU1MkMxNy4zODkgMTcuNzI4IDE0LjY3IDE5IDEyIDE5Yy0xLjMzIDAtMi42NzItLjMxNi0zLjk4Ni0uODkzem0tMi42OC0xLjU2MmExOC4wNCAxOC4wNCAwIDAxLTEuMTY2LS45MjdjLS45NS0uODItMS45MTQtMS43MjEtMi41NDctMi41NTJBOC4yIDguMiAwIDAxMSAxMi4xNDRDLjkyIDEyIC44ODIgMTEuOTA0Ljg4MiAxMlMuOTIgMTIgMSAxMS44NTZjLjE0LS4yNTIuMzU0LS41NzEuNjItLjkyMi42MzQtLjgzIDEuNTk5LTEuNzMyIDIuNTQ4LTIuNTUyQzYuNjExIDYuMjcyIDkuMzMgNSAxMiA1YzEuMzMgMCAyLjY3Mi4zMTYgMy45ODYuODkzbC0xLjY3MyAxLjY3M2E1IDUgMCAwMC02Ljc0NyA2Ljc0N2wtMi4yMzIgMi4yMzJ6bTUuODg5LTEuNjQ3bDMuNjc1LTMuNjc1YTMuMDA0IDMuMDA0IDAgMDEtMy42NzUgMy42NzV6bS0yLjEyMS0yLjEyYTMuMDA0IDMuMDA0IDAgMDEzLjY3NS0zLjY3NmwtMy42NzUgMy42NzV6TTIwIDRhLjUuNSAwIDAxMCAuNzA3TDQuNzE1IDE5Ljk5M2EuNS41IDAgMTEtLjcwOC0uNzA4TDE5LjI5MyA0QS41LjUgMCAwMTIwIDR6IiBvcGFjaXR5PSIuMyIvPjwvc3ZnPg==")}.Password input{padding-right:30px}.Password .passp-form-field_failed .passp-form-field__input:after,.Password .passp-form-field_strong .passp-form-field__input:after,.Password .passp-form-field_weak .passp-form-field__input:after{-webkit-transition:width .3s ease-in-out,background .3s ease-in-out;-o-transition:width .3s ease-in-out,background .3s ease-in-out;transition:width .3s ease-in-out,background .3s ease-in-out;width:100%!important}.Password .passp-form-field_weak .passp-form-field__input:after{background:-webkit-gradient(linear,left top,right top,from(#fff500),to(#37b24d));background:-webkit-linear-gradient(left,#fff500,#37b24d);background:-o-linear-gradient(left,#fff500,#37b24d);background:linear-gradient(90deg,#fff500,#37b24d)}.Password .passp-form-field_strong .passp-form-field__input:after{background:#37b24d}
+.PasswordSignUpInDaHouse{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.PasswordSignUpInDaHouse _:-ms-fullscreen,:root .PasswordSignUpInDaHouse{min-height:auto}.PasswordSignUpInDaHouse-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PasswordSignUpInDaHouse-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.PasswordSignUpInDaHouse{min-height:auto}.PasswordSignUpInDaHouse-body,.PasswordSignUpInDaHouse-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.PasswordSignUpInDaHouse-head{min-height:70px}}.PasswordSignUpInDaHouse a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.PasswordSignUpInDaHouse a:hover{color:#04b}.PasswordSignUpInDaHouse-controls{margin:0}.PasswordSignUpInDaHouse-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.PasswordSignUpInDaHouse-controls-row .Button{margin-top:0;min-width:116px}.PasswordSignUpInDaHouse-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.PasswordSignUpInDaHouse-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.PasswordSignUpInDaHouse-suggest{background-color:#f2f2f2;background-position:4px 6px;background-repeat:no-repeat;background-image:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiA4YzAgMS40OC0uODA0IDIuNzczLTIgMy40NjVWMThsLTEuNSAxaC0xTDEwIDE4di0xaDF2LS41bC0xLS41di0xaDF2LS41bC0xLS41di0xaDF2LTEuMTI2QTQuMDAyIDQuMDAyIDAgMDExMiA0YTQgNCAwIDAxNCA0em0tNC4wMzMgMGExIDEgMCAxMDAtMiAxIDEgMCAwMDAgMnoiIGZpbGw9IiMwMDAiLz48L3N2Zz4=");border-radius:4px;cursor:pointer;padding:7px 10px 7px 36px;margin:0 -4px 8px;color:rgba(0,0,0,.5);line-height:16px;font-size:14px}.PasswordSignUpInDaHouse-suggested-password{color:#000;line-height:18px}.PasswordSignUpInDaHouse-generate-button{background-color:#f2f2f2;background-repeat:no-repeat;background-image:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDEuOTMxYS43NS43NSAwIDAxMS4xNzctLjYxNmwyLjI2NiAxLjU2OGEuNzUuNzUgMCAwMTAgMS4yMzRMOS4xNzcgNS42ODVBLjc1Ljc1IDAgMDE4IDUuMDdWNGE0LjY2NyA0LjY2NyAwIDEwNC42NjcgNC42NjcuNjY3LjY2NyAwIDExMS4zMzMgMCA2IDYgMCAxMS02LTZWMS45M3oiIGZpbGw9IiMwMDAiIGZpbGwtb3BhY2l0eT0iLjMiLz48L3N2Zz4=");border:none;cursor:pointer;outline:none;float:right;margin-top:3px;width:16px;height:16px}.PasswordSignUpInDaHouse-hidden-field{display:none}
+/**
+ * 1. display: inline-block совместно с overflow: hidden сдвигает элемент вверх,
+ * https://stackoverflow.com/questions/20566710/overflowhidden-displayinline-block-moves-text-upwards
+ */
+.checkbox_lines_one .checkbox__label {
+    display: inline-block;
+    overflow: hidden;
+    max-width: 100%;
+    vertical-align: text-bottom; /*1*/
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.icon {
+    display: inline-block;
+
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+/**
+ * Для правильного позиционирования относительно baseline.
+ * Плюс высота блока начинает определяться по унаследованному line-height.
+ */
+.icon:after {
+    visibility: hidden;
+
+    content: '\A0';
+}
+.checkbox {
+    cursor: pointer;
+}
+
+.checkbox_disabled_yes {
+    cursor: default;
+}
+.checkbox__box {
+    position: relative;
+    z-index: 0;
+
+    display: inline-block;
+
+    line-height: normal; /* Чтобы не наследовался line-height. */
+}
+
+.checkbox__box:before {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    content: '';
+}
+
+/* Для правильного выравнивания по baseline. */
+.checkbox__box:after {
+    visibility: hidden;
+
+    content: '\A0';
+}
+.checkbox__box {
+    cursor: pointer;
+}
+
+.checkbox_disabled_yes .checkbox__box {
+    cursor: default;
+}
+
+.checkbox__box:before {
+    transition: .1s ease-out;
+    transition-property: border-color, border-width, background-color;
+}
+.checkbox__control {
+    position: absolute;
+    z-index: 4;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    opacity: 0;
+    border: none;
+    outline: none;
+    background: none;
+}
+.checkbox__control {
+    cursor: pointer;
+}
+
+.checkbox_disabled_yes .checkbox__control {
+    cursor: default;
+}
+.icon_has-glyph_yes {
+    position: relative;
+}
+
+.icon_has-glyph_yes svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.icon_has-glyph_yes svg,
+.icon_has-glyph_yes svg * {
+    fill: currentColor;
+}
+.icon_glyph_type-tick,
+.icon_glyph_type-tick svg {
+    width: 12px;
+    height: 10px;
+}
+.checkbox__tick {
+    position: absolute;
+    z-index: 3;
+
+    visibility: hidden;
+
+    pointer-events: none;
+}
+
+.checkbox_checked_yes .checkbox__tick {
+    visibility: visible;
+}
+
+.checkbox_view_classic .checkbox__tick {
+    background: 50% no-repeat;
+}
+
+.checkbox_view_classic.checkbox_size_s .checkbox__tick {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTEzLjc5NSAxTDUuNzkgMTIuNTI3IDIuMDM2IDguNTAzIDEgOS43NzMgNS45MTcgMTUgMTUgMi4xMTIgMTMuNzk1IDF6Ii8+PC9zdmc+);
+}
+
+.checkbox_view_classic.checkbox_size_n .checkbox__tick,
+.checkbox_view_classic.checkbox_size_m .checkbox__tick {
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCI+PHBhdGggZD0iTTE1LjYyMyAxbC05LjE1IDEzLjE3NC00LjI4Ny00LjZMMSAxMS4wMyA2LjYyIDE3IDE3IDIuMjcgMTUuNjIzIDF6Ii8+PC9zdmc+);
+}
+/**
+ * 1. Хак с отложенным переходом visibility:hidden/visible.
+ *    Подробнее: http://www.greywyvern.com/?post=337
+ */
+.checkbox_view_classic .checkbox__tick {
+    opacity: 0;
+
+    transition: bottom .05s, opacity .05s, visibility 0s .05s; /*1*/
+    transition-timing-function: ease-out;
+}
+
+.checkbox_view_classic.checkbox_checked_yes .checkbox__tick {
+    opacity: 1;
+
+    transition-delay: 0s; /*1*/
+}
+.checkbox__label {
+    white-space: normal;
+}
+.checkbox__label {
+    cursor: pointer;
+}
+
+.checkbox_disabled_yes .checkbox__label {
+    cursor: default;
+}
+.checkbox_lines_multi {
+    display: inline-table;
+
+    white-space: normal;
+}
+
+.checkbox_lines_multi .checkbox__label {
+    display: table-cell;
+}
+/**
+ * 1. Нужно, чтобы __label всегда оставался на одной строке с __box.
+ */
+.checkbox {
+    border-spacing: 0;
+
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    white-space: nowrap; /*1*/
+
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+
+    touch-action: manipulation;
+}
+.checkbox_size_m {
+    font-size: 15px;
+}
+
+.checkbox.checkbox_size_m .checkbox__box {
+    width: 17px;
+    height: 17px;
+}
+
+.checkbox_view_classic.checkbox_size_m .checkbox__tick {
+    bottom: 10px;
+    left: 2px;
+
+    width: 18px;
+    height: 18px;
+}
+
+.checkbox_view_classic.checkbox_size_m.checkbox_checked_yes .checkbox__tick {
+    bottom: 4px;
+}
+
+.checkbox_size_m .checkbox__label {
+    padding-left: 7px;
+}
+/**
+ * 1. Нужно адекватно позиционировать __box относительно текста.
+ */
+
+.checkbox_size_n {
+    font-size: 13px;
+}
+
+.checkbox.checkbox_size_n .checkbox__box,
+.checkbox.checkbox_size_n .checkbox__tick,
+.checkbox_view_default.checkbox_size_n .checkbox__tick .icon {
+    width: 18px;
+    height: 18px;
+}
+
+.checkbox.checkbox_size_n .checkbox__box { /*1*/
+    top: -1px;
+    line-height: 18px;
+}
+
+.checkbox_view_classic.checkbox_size_n .checkbox__tick {
+    bottom: 12px;
+    left: 2px;
+}
+
+.checkbox_view_classic.checkbox_size_n.checkbox_checked_yes .checkbox__tick {
+    bottom: 4px;
+}
+
+.checkbox_size_n .checkbox__label {
+    padding-left: 1ex;
+}
+.checkbox_size_s {
+    font-size: 13px;
+}
+
+.checkbox.checkbox_size_s .checkbox__box {
+    width: 14px;
+    height: 14px;
+}
+
+.checkbox_view_classic.checkbox_size_s .checkbox__tick {
+    bottom: 8px;
+    left: 2px;
+
+    width: 16px;
+    height: 16px;
+}
+
+.checkbox_view_classic.checkbox_size_s.checkbox_checked_yes .checkbox__tick {
+    bottom: 3px;
+}
+
+.checkbox_size_s .checkbox__label {
+    padding-left: 5px;
+}
+.checkbox_theme_normal {
+    color: #000;
+}
+
+.checkbox_theme_normal .checkbox__box:before {
+    background-color: #fff;
+    background-clip: padding-box;
+}
+
+.checkbox_view_classic.checkbox_theme_normal .checkbox__box:before {
+    border: 1px solid;
+    border-color: rgba(0,0,0,.2);
+    border-radius: 3px;
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    border-color: rgba(0,0,0,.3);
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_pressed_yes .checkbox__box:before {
+    background-color: #f3f1ed;
+}
+
+.utilityfocus .checkbox_view_classic.checkbox_theme_normal.checkbox_focused_yes .checkbox__box:before {
+    border-width: 2px;
+    border-color: #ffdb4d;
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    border-color: rgba(153,122,0,.5);
+    background-color: #ffeba0;
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_checked_yes.checkbox_hovered_yes .checkbox__box:before {
+    border-color: rgba(129,103,0,.6);
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_checked_yes.checkbox_pressed_yes .checkbox__box:before {
+    background-color: #fee481;
+}
+
+.utilityfocus .checkbox_view_classic.checkbox_theme_normal.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    border-color: #fc0;
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_disabled_yes .checkbox__box:before {
+    border-color: rgba(0,0,0,.08);
+    background-color: rgba(0,0,0,.08);
+}
+
+.checkbox_view_classic.checkbox_theme_normal.checkbox_disabled_yes .checkbox__tick,
+.checkbox_view_classic.checkbox_theme_normal.checkbox_disabled_yes .checkbox__label {
+    opacity: .5;
+}
+.checkbox_view_classic.checkbox_theme_pseudo {
+    color: #000;
+}
+
+.checkbox_theme_pseudo .checkbox__box:before {
+    background-color: transparent;
+    background-clip: padding-box;
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo .checkbox__box:before {
+    border: 1px solid;
+    border-color: rgba(0,0,0,.2);
+    border-radius: 3px;
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_hovered_yes .checkbox__box:before {
+    border-color: rgba(0,0,0,.3);
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_pressed_yes .checkbox__box:before {
+    background-color: rgba(0,0,0,.05);
+}
+
+.utilityfocus .checkbox_view_classic.checkbox_theme_pseudo.checkbox_focused_yes .checkbox__box:before {
+    border-width: 2px;
+    border-color: #ffdb4d;
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_checked_yes .checkbox__box:before {
+    border-color: rgba(153,122,0,.5);
+    background-color: #ffeba0;
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_checked_yes.checkbox_hovered_yes .checkbox__box:before {
+    border-color: rgba(129,103,0,.6);
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_checked_yes.checkbox_pressed_yes .checkbox__box:before {
+    background-color: #fee481;
+}
+
+.utilityfocus .checkbox_view_classic.checkbox_theme_pseudo.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    border-color: #fc0;
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_disabled_yes .checkbox__box:before {
+    border-color: rgba(0,0,0,.08);
+    background-color: rgba(0,0,0,.08);
+}
+
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_disabled_yes .checkbox__tick,
+.checkbox_view_classic.checkbox_theme_pseudo.checkbox_disabled_yes .checkbox__label {
+    opacity: .5;
+}
+/*.checkbox_tone_default {
+    --color-text: #000;
+    --color-checkmark: #fff;
+    --color-bg-heavy: #d9d9d9;
+    --color-bg-heavy-hovered: #cecece;
+    --color-bg-checked: #555;
+    --color-bg-checked-hovered: #515151;
+    --color-border-focused: #b3b3b3;
+    --color-border-checked-focused: #3b3b3b;
+    --color-transparent: transparent;
+}*/
+
+/*.checkbox_tone_red {
+    --color-text: #fff;
+    --color-checkmark: #d62b2b;
+    --color-bg-heavy: #951e1e;
+    --color-bg-heavy-hovered: #8e1d1d;
+    --color-bg-checked: #fff;
+    --color-bg-checked-hovered: #f2f2f2;
+    --color-border-focused: #ff3838;
+    --color-border-checked-focused: #ffffff;
+    --color-transparent: transparent;
+}*/
+
+/*.checkbox_tone_grey {
+    --color-text: #000;
+    --color-checkmark: #fff;
+    --color-bg-heavy: #d0d0d0;
+    --color-bg-heavy-hovered: #c6c6c6;
+    --color-bg-checked: #2196f3;
+    --color-bg-checked-hovered: #1f8fe7;
+    --color-border-focused: #acacac;
+    --color-border-checked-focused: #1769aa;
+    --color-transparent: transparent;
+}*/
+
+/*.checkbox_tone_dark {
+    --color-text: #eceff1;
+    --color-checkmark: #29363c;
+    --color-bg-heavy: #485f6a;
+    --color-bg-heavy-hovered: #445a65;
+    --color-bg-checked: #eceff1;
+    --color-bg-checked-hovered: #e0e3e5;
+    --color-border-focused: #7296a8;
+    --color-border-checked-focused: #ffffff;
+    --color-transparent: transparent;
+}*/
+
+/*.checkbox_tone_market {
+     --color-text: #000;
+     --color-checkmark: #000000;
+     --color-bg-heavy: #d9d9d9;
+     --color-bg-heavy-hovered: #cecece;
+     --color-bg-checked: #fc0;
+     --color-bg-checked-hovered: #f2c200;
+     --color-border-focused: #b3b3b3;
+     --color-border-checked-focused: #b38f00;
+     --color-transparent: transparent;
+}*/
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal {
+    color: #eceff1;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal .checkbox__box:before {
+    background-color: #485f6a;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_dark.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #7296a8;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_dark.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #ffffff;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal .checkbox__tick {
+    color: transparent;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    color: #29363c;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: #eceff1;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: #445a65;
+}
+.checkbox_view_default.checkbox_tone_dark.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: #e0e3e5;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal {
+    color: #000;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal .checkbox__box:before {
+    background-color: #d9d9d9;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_default.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #b3b3b3;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_default.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #3b3b3b;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal .checkbox__tick {
+    color: transparent;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    color: #fff;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: #555;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: #cecece;
+}
+.checkbox_view_default.checkbox_tone_default.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: #515151;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal {
+    color: #000;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal .checkbox__box:before {
+    background-color: #d0d0d0;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_grey.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #acacac;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_grey.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #1769aa;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal .checkbox__tick {
+    color: transparent;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    color: #fff;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: #2196f3;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: #c6c6c6;
+}
+.checkbox_view_default.checkbox_tone_grey.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: #1f8fe7;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal {
+    color: #000;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal .checkbox__box:before {
+    background-color: #d9d9d9;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_market.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #b3b3b3;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_market.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #b38f00;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal .checkbox__tick {
+    color: transparent;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    color: #000000;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: #fc0;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: #cecece;
+}
+.checkbox_view_default.checkbox_tone_market.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: #f2c200;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal {
+    color: #fff;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal .checkbox__box:before {
+    background-color: #951e1e;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_red.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #ff3838;
+}
+.utilityfocus .checkbox_view_default.checkbox_tone_red.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px #ffffff;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal .checkbox__tick {
+    color: transparent;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    color: #d62b2b;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: #fff;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: #8e1d1d;
+}
+.checkbox_view_default.checkbox_tone_red.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: #f2f2f2;
+}
+/**
+ * Этот файл создан, чтобы не было предупреждений webpack-loader
+ * при сборке пакета и/или примеров для React.
+ * Впоследствии файл будет наполнен содержимым или удален.
+ */
+/**
+ * 1-8. Цвета по умолчанию для браузеров, не понимающих переменные.
+ * TODO: https://st.yandex-team.ru/ISL-4002.
+ * 9. Если перед checkbox_size_m поставить вплотную текст определенной длины,
+ * inline-svg внутри сдвигается (вероятно, из-за нечетных величин длины/ширины).
+ * Точно так же такие сдвиги могут происходить из-за margin у элементов сверху (Chrome).
+ * Поэтому процентный отступ переопределяется на величину в px.
+ * 10. Из-за четных величин viewBox, которые актуальны для размеров s и n, в нечетном m
+ * нужен небольшой отступ для выравнивания.
+ */
+
+.checkbox_view_default.checkbox_theme_normal { /*1*/
+    color: #000;
+}
+
+.checkbox_view_default.checkbox_theme_normal .checkbox__box:before { /*2*/
+    background-color: #d9d9d9;
+}
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick { /*3*/
+    color: #fff;
+}
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before { /*4*/
+    background-color: #555;
+}
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before { /*5*/
+    background-color: #cecece;
+}
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before { /*6*/
+    background-color: #515151;
+}
+
+.utilityfocus .checkbox_view_default.checkbox_focused_yes .checkbox__box:before { /*7*/
+    box-shadow: 0 0 0 2px #b3b3b3;
+}
+
+.utilityfocus .checkbox_view_default.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before { /*8*/
+    box-shadow: 0 0 0 2px #3b3b3b;
+}
+
+/*.checkbox_view_default.checkbox_theme_normal {
+    color: var(--color-text);
+}*/
+
+.checkbox_view_default.checkbox_theme_normal .checkbox__box:before {
+    border-radius: 4px;
+    /* background-color: var(--color-bg-heavy); */
+
+    transition: background .1s linear;
+}
+
+/*.utilityfocus .checkbox_view_default.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px var(--color-border-focused);
+}*/
+
+/*.utilityfocus .checkbox_view_default.checkbox_checked_yes.checkbox_focused_yes .checkbox__box:before {
+    box-shadow: 0 0 0 2px var(--color-border-checked-focused);
+}*/
+
+.checkbox_view_default.checkbox_theme_normal .checkbox__tick {
+    /* color: var(--color-transparent); */
+
+    transition: color .1s, transform .2s;
+    transform: translateY(-5px);
+}
+
+.checkbox_view_default.checkbox_theme_normal .checkbox__tick .icon {
+    width: 100%;
+    height: 100%;
+}
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__tick {
+    /* color: var(--color-checkmark); */
+
+    transform: translateY(0px);
+}
+
+/*.checkbox_view_default.checkbox_theme_normal.checkbox_checked_yes .checkbox__box:before {
+    background-color: var(--color-bg-checked);
+}*/
+
+/*.checkbox_view_default.checkbox_theme_normal.checkbox_hovered_yes .checkbox__box:before {
+    background-color: var(--color-bg-heavy-hovered);
+}*/
+
+/*.checkbox_view_default.checkbox_theme_normal.checkbox_hovered_yes.checkbox_checked_yes .checkbox__box:before {
+    background-color: var(--color-bg-checked-hovered);
+}*/
+
+.checkbox_view_default.checkbox_theme_normal.checkbox_disabled_yes {
+    opacity: .6;
+}
+
+.checkbox_view_default .checkbox__box {
+    text-align: left;
+}
+
+.checkbox_view_default.checkbox_size_m .checkbox__box,
+.checkbox_view_default.checkbox_size_m .checkbox__tick,
+.checkbox_view_default.checkbox_size_m .checkbox__tick .icon {
+    width: 17px;
+    height: 17px;
+}
+
+.checkbox_view_default.checkbox_size_s .checkbox__box,
+.checkbox_view_default.checkbox_size_s .checkbox__tick,
+.checkbox_view_default.checkbox_size_s .checkbox__tick .icon {
+    width: 14px;
+    height: 14px;
+}
+
+.checkbox_view_default.checkbox_size_n .checkbox__tick svg {
+    width: 12px;
+    height: 10px;
+}
+
+.checkbox_view_default.checkbox_size_m .checkbox__tick svg {
+    top: 9px; /*9*/
+    left: 9px; /*9*/
+
+    width: 11px;
+    height: 10px;
+
+    padding-right: 1px; /*10*/
+    padding-bottom: 1px; /*10*/
+}
+
+.checkbox_view_default.checkbox_size_s .checkbox__tick svg {
+    width: 10px;
+    height: 8px;
+}
+
+.EulaSignUp{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-flow:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-flow:column;flex-flow:column;min-height:220px}.EulaSignUp _:-ms-fullscreen,:root .EulaSignUp{min-height:auto}.EulaSignUp-body{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.EulaSignUp-head{-webkit-box-flex:1;-webkit-flex-grow:1;-moz-box-flex:1;-ms-flex-positive:1;flex-grow:1;min-height:115px;margin-bottom:15px}@media (max-width:650px){.EulaSignUp{min-height:auto}.EulaSignUp-body,.EulaSignUp-head{-webkit-box-flex:0;-webkit-flex-grow:0;-moz-box-flex:0;-ms-flex-positive:0;flex-grow:0}.EulaSignUp-head{min-height:70px}}.EulaSignUp a{color:#4981d7;text-decoration:none;-webkit-transition:color .5s;-o-transition:color .5s;transition:color .5s}.EulaSignUp a:hover{color:#04b}.EulaSignUp-controls{margin:0}.EulaSignUp-controls-row{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.EulaSignUp-controls-row .Button{margin-top:0;min-width:116px}.EulaSignUp-controls-row .Button:nth-child(2n){margin-left:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.EulaSignUp-controls-row .Button:nth-child(odd){margin-right:4px;width:-webkit-calc(50% - 4px);width:calc(50% - 4px)}.EulaSignUp-back-button{margin:-20px 0 16px -9px}.EulaSignUp-body{margin-bottom:15px}.EulaSignUp-eula{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.EulaSignUp-eula_money{font-family:YS Text;font-size:14px;line-height:18px}.EulaSignUp-eula_money .checkbox__label{display:inline}.EulaSignUp-frame{color:transparent;position:absolute;top:-9999px;left:-9999px;border:0;width:100px;height:100px}
 .LoadableFallback{min-height:230px;width:100%;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;padding-top:120px}

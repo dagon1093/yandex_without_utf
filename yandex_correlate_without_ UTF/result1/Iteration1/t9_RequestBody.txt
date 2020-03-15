@@ -1,3 +1,3 @@
-"csrf_token=3a93d9f14822c9c9a6c7edb369e4f76abc7258b3%3A1582747499394&login=alex.under1093%40yan"
-"dex.ru&process_uuid=732c5e85-8f12-46fa-83dc-fe3b4c7420b9&retpath=https%3A%2F%2Fmail.yandex.ru%"
-"2F&origin=hostroot_homer_auth_ru&service=mail"
+"csrf_token=a6fb13857764571e49af01a0ce9bb051e4f051e0%3A1584287243104&login=d4gon1093%40yandex.r"
+"u&process_uuid=091275c0-2943-4b37-ab60-63f3755533ad&retpath=https%3A%2F%2Fmail.yandex.ru%2F&or"
+"igin=hostroot_homer_auth_ru&service=mail"

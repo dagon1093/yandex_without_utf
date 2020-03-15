@@ -78,7 +78,7 @@ AppName ='yandex'
 RuleName ='process_uuid'*/
 	web_reg_save_param_regexp(
 		"ParamName=process_uuid",
-		"RegExp=process_uuid=(.*?)&quot",
+		"RegExp=process_uuid=(.*?)&",
 		"Ordinal=1",
 		SEARCH_FILTERS,
 		"Scope=Body",

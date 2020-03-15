@@ -1,4 +1,4 @@
-# 1 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c"
+# 1 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -964,7 +964,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 1 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1130,7 +1130,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 2 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 
 # 1 "globals.h" 1
 
@@ -2832,14 +2832,14 @@ long WebSocketReceiveLen7   = sizeof(WebSocketReceive7) - 1;
  
 
 
-# 3 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 3 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 4 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2922,7 +2922,7 @@ Action()
 
 	web_reg_save_param_regexp(
 		"ParamName=process_uuid",
-		"RegExp=process_uuid=(.*?)&quot",
+		"RegExp=process_uuid=(.*?)&",
 		"Ordinal=1",
 		"SEARCH_FILTERS",
 		"Scope=Body",
@@ -3352,12 +3352,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 5 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\lol\\documents\\vugen\\scripts\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
+# 6 "c:\\users\\lol\\documents\\vugen\\yandex_without_utf\\yandex_correlate_without_ utf\\\\combined_yandex_correlate_without_ UTF.c" 2
 

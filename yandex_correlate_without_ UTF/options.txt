@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\lol\Documents\VuGen\Scripts\yandex_correlate_without_ UTF
+-IC:\Users\lol\Documents\VuGen\yandex_without_utf\yandex_correlate_without_ UTF
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\lol\documents\vugen\scripts\yandex_correlate_without_ utf\\logfile.log
-c:\users\lol\documents\vugen\scripts\yandex_correlate_without_ utf\\combined_yandex_correlate_without_ UTF.c
-c:\users\lol\documents\vugen\scripts\yandex_correlate_without_ utf\\pre_cci.c
+-ec:\users\lol\documents\vugen\yandex_without_utf\yandex_correlate_without_ utf\\logfile.log
+c:\users\lol\documents\vugen\yandex_without_utf\yandex_correlate_without_ utf\\combined_yandex_correlate_without_ UTF.c
+c:\users\lol\documents\vugen\yandex_without_utf\yandex_correlate_without_ utf\\pre_cci.c
